@@ -71,11 +71,11 @@
 | [**linenoise**](https://github.com/antirez/linenoise)   | 轻量的 readline 替代品，适用于 CLI 应用                |
 | [**indicators**](https://github.com/p-ranav/indicators) | 美观的 CLI 进度条库（C++）                          |
 
-
+---
 
 ### 🔧 网络 / Web 开发相关
 
-| 项目名                                                            | 简介                                 |
+| 项目                                                            | 简介                                 |
 | -------------------------------------------------------------- | ---------------------------------- |
 | [**TinyWebServer**](https://github.com/qinguoyi/TinyWebServer) | 高性能 Web 服务器，C++ 实现，支持 epoll + 多线程  |
 | [**wfrest**](https://github.com/wfrest/wfrest)                 | 基于 Sogou Workflow 的轻量级 C++ REST 框架 |
@@ -84,18 +84,50 @@
 | [**libmill**](https://github.com/sustrik/libmill)              | C 协程风格的并发编程库（Go 风格）                |
 | [**picotcp**](https://github.com/tass-belgium/picotcp)         | 嵌入式设备用的轻量 TCP/IP 协议栈               |
 
+---
+
+### 📡 嵌入式 / RTOS / IoT 
+
+| 项目                                                            | 简介                                 |
+| -------------------------------------------------------------- | ---------------------------------- |
+| [**Apache NuttX**](https://github.com/qinguoyi/TinyWebServer) | 一个兼容 POSIX 的实时微内核操作系统，支持 ARM、RISC‑V 等多个架构，适合嵌入式系统开发与学习  |
+| [**Zephyr**](https://github.com/zephyrproject-rtos/zephyr)                 | 主流开源嵌入式系统与工具链 |
+| [**FreeRTOS**](https://github.com/FreeRTOS/FreeRTOS)    | 主流开源嵌入式系统与工具链             |
+| [**acados**](https://github.com/acados/acados)                    | 面向嵌入式场景的开源最优控制库，底层使用 BLASFEO 高性能线性代数，加速控制算法部署          |
+
+---
+
+### 🎨 游戏引擎 / 图形渲染
+
+| 项目                                                            | 简介                                 |
+| -------------------------------------------------------------- | ---------------------------------- |
+| [**ezEngine**](https://github.com/ezEngine/ezEngine) | 开源 C++ 游戏引擎，支持 Windows/Linux/Android  |
+| [**irrlicht**](https://sourceforge.net/p/irrlicht/code/HEAD/tree/)    | 轻量级跨平台 3D 引擎，适合视觉渲染和游戏初学者 |
+| [**OGRE**](https://github.com/OGRECave/ogre)    | 大型渲染架构，广泛用于模拟与游戏 |
+| [**orx**](https://github.com/orx/orx)                    | 面向 2D 游戏的轻量级插件驱动引擎，支持多平台          |
+| [**limitless-engine**](https://github.com/hotstreams/limitless-engine)    | 使用 C++17 和现代 OpenGL 构建的渲染引擎，聚焦高性能和低延迟 |
+| [**Wicked Engine**](https://github.com/turanszkij/WickedEngine)    | 现代 OpenGL/Vulkan 引擎，带编辑器和脚本系统，可用于学习使用 |
+| [**Diligent Engine**](https://github.com/DiligentGraphics/DiligentEngine)                    | 跨平台渲染框架，封装 DirectX12/Vulkan/Metal 等主流 API，适合 3D 可视化类项目    |
+
+
+
+
+
+---
 
 ### 数据库 / 存储组件
 
-| 项目名                                                     | 简介                      |
+| 项目                                                     | 简介                      |
 | ------------------------------------------------------- | ----------------------- |
 | [**rocksdb**](https://github.com/facebook/rocksdb)      | Facebook 出品的高性能嵌入式键值数据库 |
 | [**sqlite\_orm**](https://github.com/fnc12/sqlite_orm)  | SQLite 的现代 C++ ORM 封装   |
 | [**SQLiteCpp**](https://github.com/SRombauts/SQLiteCpp) | SQLite 的 C++ 封装库        |
 
+---
+
 ### 🏢 企业级 / 工程级组件
 
-| 项目名                                                  | 简介                        |
+| 项目                                                  | 简介                        |
 | ---------------------------------------------------- | ------------------------- |
 | [**folly**](https://github.com/facebook/folly)       | Facebook 推出的 C++ 核心组件库    |
 | [**workflow**](https://github.com/sogou/workflow)    | 搜狗高性能异步框架，支持 HTTP、RPC 等   |
