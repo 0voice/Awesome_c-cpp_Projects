@@ -111,14 +111,6 @@
 | [**godot**](https://github.com/godotengine/godot)  | 著名的跨平台开源游戏引擎，支持 2D/3D   |
 | [**filament**](https://github.com/google/filament) | Google 推出的实时物理渲染引擎（C++） |
 | [**kilo**](https://github.com/antirez/kilo)        | 极简终端文本编辑器（游戏引擎初学者可参考）   |
-| [**Snake-Game-in-C**](https://github.com/kishaningithub/Snake-Game-in-C) | 贪吃蛇小游戏，基于控制台，C 语言   |
-| [**minesweeper-c**](https://github.com/dennis714/minesweeper-c)          | 扫雷游戏，纯终端版本          |
-| [**simple-chess**](https://github.com/xeviknal/simple-chess)             | 简单象棋游戏，支持基本移动规则     |
-| [**pong-cpp**](https://github.com/clementfarabet/pong)                   | 经典乒乓球小游戏，C++ 实现     |
-| [**TicTacToe**](https://github.com/jayrambhia/TicTacToe)                 | 简易井字棋小游戏            |
-| [**Breakout**](https://github.com/alexbrillant/Breakout)                 | 打砖块游戏，基于 SDL2 和 C++ |
-| [**2048-C**](https://github.com/fish2000/2048-C)                         | 控制台版 2048 游戏        |
-
 
 ---
 
