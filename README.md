@@ -42,13 +42,7 @@
 | 项目                                                                   | 简介                       |
 | -------------------------------------------------------------------- | ------------------------ |
 | [TinyTetris](https://github.com/taylorconor/tinytetris)              | 纯 C 语言实现的经典俄罗斯方块游戏，控制台界面 |
-| [Snake-Game-in-C](https://github.com/kishaningithub/Snake-Game-in-C) | 基于控制台的贪吃蛇游戏，C 语言实现       |
-| [minesweeper-c](https://github.com/dennis714/minesweeper-c)          | 经典扫雷游戏，C 语言版本，终端界面       |
-| [simple-chess](https://github.com/xeviknal/simple-chess)             | 简易象棋游戏，C++ 编写，带基本棋子移动规则  |
-| [TicTacToe](https://github.com/jayrambhia/TicTacToe)                 | 井字棋游戏，C++ 实现，适合入门练习      |
-| [pong-cpp](https://github.com/clementfarabet/pong)                   | 用 C++ 实现的经典乒乓球游戏         |
-| [Breakout](https://github.com/alexbrillant/Breakout)                 | 砖块破坏者游戏，C++ 和 SDL2 实现    |
-| [2048-C](https://github.com/fish2000/2048-C)                         | 控制台版 2048 游戏，C 语言实现      |
+
 
 ---
 
