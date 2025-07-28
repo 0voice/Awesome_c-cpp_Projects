@@ -52,9 +52,7 @@
 |------|------|
 | [**Anbox**](https://github.com/anbox/anbox) | 基于容器技术让 Android 原生运行在 Linux 上 |
 | [**Waydroid**](https://github.com/waydroid/waydroid) | Anbox 的活跃替代品，支持完整 Android UI，性能更好 |
-| [**Android-x86**](https://github.com/android-x86/android-x86) | 将 Android 移植到 x86 平台，可在 PC 上运行 Android |
 | [**Genymotion Emulator (scrcpy)**](https://github.com/Genymobile/scrcpy) | **scrcpy** 是 Genymotion 团队开发的高性能安卓投屏工具（C 实现） |
-| [**Project Sandcastle**](https://github.com/corenel/sandcastle) | 让 Android 在 iPhone 上运行的实验项目（与 Corellium 有关） |
 | [**SPURV**](https://gitlab.collabora.com/spurv/spurv) | Collabora 开发的 Android on Linux 容器运行方案，主打 Wayland 桌面支持 |
 | [**Box64 / Box86**](https://github.com/ptitSeb/box64) | 在 ARM 设备上运行 x86 Linux 程序（用 C 写的高性能模拟器） |
 | [**QEMU**](https://github.com/qemu/qemu) | 世界最著名的虚拟化模拟器，支持多种架构，底层大量 C 实现 |
