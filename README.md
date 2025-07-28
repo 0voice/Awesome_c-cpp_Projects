@@ -133,9 +133,7 @@
 | [**MyTinySTL**](https://github.com/Alinshans/MyTinySTL) | 简易版 STL 容器库实现，适合 STL 源码学习 |
 
 
-
 ---
+### 免责声明
 
-> 持续更新，欢迎 Star 🌟、Fork 🍴、Watch 🔔 ！
-
-
+本项目内容均来源于互联网公开资料，仅供学习交流使用，版权归原作者所有。
