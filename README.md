@@ -34,6 +34,7 @@
 | [TinyWebServer](https://github.com/qinguoyi/TinyWebServer) | 使用C++11编写的高性能 Web 服务器，适合用作网络编程与多线程并发 |
 | [libqalculate](https://github.com/Qalculate/libqalculate) | 功能非常强大的跨平台 数学计算库 |
 
+
 ---
 
 ### 标准/支持库
@@ -48,6 +49,8 @@
 | [hana](https://github.com/boostorg/hana) | metaprogramming标准库 |
 | [libunifex](https://github.com/facebookexperimental/libunifex) | 统一执行器 |
 | [WIL](https://github.com/microsoft/wil) | 适用于常见 Windows 编程模式的易读型类型安全 C++接口 |
+| [The GNU C Library](https://www.gnu.org/software/libc/manual) | 本手册的目的是告诉您如何使用 GNU C 库的功能 |
+| [C++ Standard Library](https://en.wikipedia.org/wiki/C%2B%2B_Standard_Library) | 一组类和函数的集合，这些类和函数是用核心语言编写的，并且是 C++ ISO 标准本身的一部分 |
 
 ---
 
@@ -57,6 +60,32 @@
 |--------|------|
 | [miniaudio](https://github.com/mackron/miniaudio) | 用 C 语言编写的音频播放和捕获库 |
 | [minimp3](https://github.com/lieff/minimp3) | 极简主义 MP3 解码单头文件库 |
+| [Amplitude Audio SDK](https://github.com/SparkyStudios/AmplitudeAudioSDK) | 一款跨平台音频引擎，专为游戏需求设计     |
+| [Aubio](https://github.com/aubio/aubio)                                   | 用于音频和音乐分析的库  |
+| [AudioFile](https://github.com/adamstark/AudioFile)                       | 一个用于读写音频文件的简单 C++ 库    |
+| [audioFlux](https://github.com/libAudioFlux/audioFlux)                    | 一个用于音频与音乐分析、特征提取的 C 语言库    |
+| [dr\_libs](https://github.com/mackron/dr_libs)                            | 单文件音频解码库，适用于 C 和 C++   |
+| [FMOD](http://www.fmod.org/)                                              | 易用的跨平台音频引擎及游戏音频内容创建工具   |
+| [KFR](https://www.kfrlib.com/)                                            | 快速、现代的 C++ DSP 框架，支持 FFT、FIR/IIR 滤波器、采样率转换等   |
+| [LAME](https://lame.sourceforge.io/using.php)                             | 高质量的 MPEG 音频层 III（MP3）编码器  |
+| [libsndfile](https://github.com/erikd/libsndfile/)                        | C 语言库（带 C++ 封装）用于通过标准接口读写采样声音文件   |
+| [libsoundio](https://github.com/andrewrk/libsoundio)                      | 跨平台实时音频输入输出的 C 语言库 |
+| [Maximilian](https://github.com/micknoise/Maximilian)                     | C++ 音频与音乐数字信号处理（DSP）库    |
+| [OpenAL](http://www.openal.org/)                                          | 开放音频库，一个跨平台音频 API  |
+| [miniaudio](https://github.com/mackron/miniaudio)                         | 单文件音频播放与采集库 |
+| [ni-media](https://github.com/NativeInstruments/ni-media)                 | 用于读写音频文件的 C++ 库 |
+| [Opus](http://opus-codec.org/)                                            | 完全开放、免版税、用途广泛的音频编解码器  |
+| [PortAudio](http://www.portaudio.com/)                                    | 免费的跨平台开源音频输入输出库  |
+| [rnnoise](https://github.com/xiph/rnnoise)                                | 用于音频降噪的循环神经网络  |
+| [SELA](https://github.com/sahaRatul/sela)                                 | 简单的无损音频格式  |
+| [SoLoud](https://github.com/jarikomppa/soloud)                            | 简单、可移植的游戏音频引擎 |
+| [Speex](http://www.speex.org/)                                            | 免费的语音编解码器，已被 Opus 替代    |
+| [Tonic](https://github.com/TonicAudio/Tonic)                              | 简洁高效的 C++ 音频合成库  |
+| [Vorbis](http://xiph.org/vorbis/)                                         | Ogg Vorbis 是一种完全开放、非专利、免版税的通用压缩音频格式 |
+| [minimp3](https://github.com/lieff/minimp3)                               | 公有领域、仅头文件实现的 MP3 解码器，采用独立开发实现。                                  |
+| [Verovio](https://github.com/rism-ch/verovio)                             | 快速轻量的音乐符号排版引擎  |
+| [Wav2Letter++](https://github.com/facebookresearch/wav2letter/)           | 公有领域的快速开源语音处理工具包，完全用 C++ 编写，并使用 ArrayFire 和 Flashlight 库实现高效计算。 |
+
 
 ---
 
@@ -85,6 +114,30 @@
 | [cppcodec](https://github.com/tplgy/cppcodec) | 编码/解码 base64、base64url、base32 等 |
 | [digestpp](https://github.com/kerukuro/digestpp) |C++11 头文件消息摘要库 |
 | [plusaes](https://github.com/kkAyataka/plusaes) | 仅包含头文件的 C++ AES 加密库 |
+
+---
+
+### 框架
+
+| 项目                                                                  | 简介                   |
+| --------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| [ANNetGPGPU](https://github.com/ANNetGPGPU/ANNetGPGPU)                | 基于 GPU（CUDA）实现的人工神经网络库    |
+| [btsk](https://github.com/aigamedev/btsk)                             | 游戏用行为树入门工具包     |
+| [Evolving Objects](http://eodev.sourceforge.net/)                     | 一个基于模板的 ANSI-C++ 进化计算库，可帮助你非常快速地编写随机优化算法。   |
+| [frugally-deep](https://github.com/Dobiasd/frugally-deep)             | 一个仅头文件库，用于在 C++ 中使用 Keras 模型  |
+| [Genann](https://github.com/codeplea/genann)                          | 用 C 编写的简单神经网络库  |
+| [MXNet](https://github.com/apache/incubator-mxnet)                    | 轻量、可移植、灵活的分布式/移动端深度学习框架，支持动态、可变的数据流图调度器；支持 Python、R、Julia、Scala、Go、JavaScript 等语言。 |
+| [PyTorch](https://github.com/pytorch/pytorch)       | 在 Python 中具有强大 GPU 加速的张量和动态图神经网络框架     |
+| [flashlight](https://github.com/flashlight/flashlight)                | 一个完全用 C++ 编写的快速灵活的机器学习库   |
+| [Recast/Detour](https://github.com/recastnavigation/recastnavigation) | 三维导航网格生成与路径规划器，主要用于游戏开发     |
+| [TensorFlow](https://github.com/tensorflow/tensorflow)                | 一个使用数据流图进行数值计算的开源软件库   |
+| [Txeo](https://github.com/rdabra/txeo)                                | TensorFlow 的现代 C++ 封装库    |
+| [oneDNN](https://github.com/oneapi-src/oneDNN)                        | 一款用于深度学习应用的跨平台高性能开源库  |
+| [CNTK](https://github.com/Microsoft/CNTK)                             | 微软认知工具包（CNTK），一个开源深度学习工具包   |
+| [tiny-dnn](https://github.com/tiny-dnn/tiny-dnn)                      | C++11 实现的头文件式、无依赖的深度学习框架  |
+| [Veles](https://github.com/Samsung/veles)                             | 一个分布式平台，用于快速开发深度学习应用          |
+| [Kaldi](https://github.com/kaldi-asr/kaldi)                           | 用于语音识别的工具包     |
+
 
 ---
 
