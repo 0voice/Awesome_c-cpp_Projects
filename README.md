@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Awesome C/C++ Projects</h1>
 
 <p align="center">
-  💼 收录和整理 <b>100+</b> 个高质量、开源的 C/C++ 项目，适合学习、参考与实践使用
+  💼 收录和整理 <b>300+</b> 个高质量、开源的 C/C++ 项目，适合学习、参考与实践使用
 </p>
 
 <p align="center">
