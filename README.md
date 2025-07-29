@@ -173,6 +173,31 @@
 
 ---
 
+### 日志记录
+
+| 项目 | 介绍 |
+|---|---|
+| [Abseil Logging](https://abseil.io/docs/cpp/guides/logging) | Abseil 日志库提供了将日志消息写入 stderr、文件或其他接收器的功能。 |
+| [Blackhole](https://github.com/3Hren/blackhole) | 基于属性的日志框架，设计上快速、模块化且高度可定制。 |
+| [Boost.Log](https://github.com/boostorg/log) | 设计为高度模块化和可扩展。 |
+| [BqLog](https://github.com/Tencent/BqLog) | 一个轻量级、高性能的日志系统，用于《王者荣耀》等项目。 |
+| [Easylogging++](https://github.com/amrayn/easyloggingpp) | 极其轻量级的高性能日志库，适用于 C++11（或更高版本）应用程序。 |
+| [fmtlog](https://github.com/MengRao/fmtlog) | 一个高性能的 fmtlib 风格日志库，延迟低至纳秒级。 |
+| [G3log](https://github.com/KjellKod/g3log) | 带有动态接收器的异步日志记录器。 |
+| [glog](https://github.com/google/glog) | Google 日志模块的 C++ 实现。 |
+| [haclog](https://github.com/MuggleWei/haclog) | 一个极其快速的纯 C 日志库。 |
+| [Log4cpp](http://log4cpp.sourceforge.net/) | 一个 C++ 类库，用于灵活地将日志记录到文件、syslog、IDSA 和其他目的地。 |
+| [log4cplus](https://github.com/log4cplus/log4cplus) | 一个易于使用的 C++ 日志 API，提供线程安全、灵活且任意粒度的日志管理和配置控制。 |
+| [loguru](https://github.com/emilk/loguru) | 一个轻量级的 C++ 日志库。 |
+| [lwlog](https://github.com/ChristianPanov/lwlog) | 非常快的同步和异步 C++17 日志库。 |
+| [ng-log](https://github.com/ng-log/ng-log) | 用于应用级日志记录的 C++14 库。 |
+| [plog](https://github.com/SergiusTheBest/plog) | 小于 1000 行代码的便携式简单 C++ 日志库。 |
+| [reckless](https://github.com/mattiasflodin/reckless) | 低延迟、高吞吐量、异步的 C++ 日志库。 |
+| [spdlog](https://github.com/gabime/spdlog) | 超快速、仅头文件的 C++ 日志库。 |
+| [templog](http://www.templog.org/) | 一个非常小巧轻量级的 C++ 库，可用于为您的 C++ 应用程序添加日志功能。 |
+
+
+---
 
 
 ### 参数解析器
@@ -335,7 +360,7 @@
 
 ---
 
-### 🎨 游戏引擎 / 图形渲染
+### 游戏引擎
 
 | 项目                                                            | 简介                                 |
 | -------------------------------------------------------------- | ---------------------------------- |
@@ -456,6 +481,58 @@
 | [**Proot**](https://github.com/proot-me/proot) | 用于 Linux 用户空间虚拟化的轻量工具，无需 root 权限 |
 | [**MyTinySTL**](https://github.com/Alinshans/MyTinySTL) | 简易版 STL 容器库实现，适合 STL 源码学习 |
 | [**inversify-cpp**](https://github.com/mosure/inversify-cpp) | C++17 控制反转和依赖注入容器库 |
+
+---
+
+### 图形
+
+---
+| 项目 | 介绍 |
+|---|---|
+| [assimp](https://github.com/assimp/assimp) | Open Asset Import Library 是一个跨平台的 3D 模型导入库，旨在为不同的 3D 资产文件格式提供一个通用的 API。 |
+| [bgfx](https://github.com/bkaradzic/bgfx) | 一个跨平台的渲染库。 |
+| [Blend2D](https://github.com/blend2d/blend2d) | 由 JIT 编译器驱动的 2D 矢量图形引擎。 |
+| [Cairo](http://www.cairographics.org/) | 一个支持多种输出设备的 2D 图形库。 |
+| [C-Turtle](https://github.com/walkerje/C-Turtle) | 一个 C++11 仅头文件的海龟图形库，作为 CImg 的封装。 |
+| [Diligent Engine](https://github.com/DiligentGraphics/DiligentEngine) | 一个现代化的跨平台低级 3D 图形库。 |
+| [DirectXTK](https://github.com/Microsoft/DirectXTK) | 一个用于在 C++ 中编写 DirectX 11.x 代码的辅助类集合。 |
+| [GLFW](https://github.com/glfw/glfw) | 一个简单、跨平台的 OpenGL 协调库。 |
+| [GLFWPP](https://github.com/janekb04/glfwpp) | 一个适用于 GLFW 的轻量级现代 C++17 仅头文件封装。 |
+| [Harfang 3D](https://github.com/harfang3d/harfang3d) | 可用于 C++、Python、Lua 和 Go 的 3D 可视化库。基于 BGFX。 |
+| [herebedragons](https://github.com/kosua20/herebedragons) | 一个使用各种引擎、框架或 API 实现的基本 3D 场景。 |
+| [Horde3D](https://github.com/horde3d/Horde3D) | 一个小型 3D 渲染和动画引擎。 |
+| [Ion](https://github.com/google/ion) | 一组小型高效的库，用于构建使用 3D 图形的跨平台客户端或服务器应用程序。 |
+| [Irrlicht](http://irrlicht.sourceforge.net/) | 一个用 C++ 编写的高性能实时 3D 引擎。 |
+| [libigl](https://github.com/libigl/libigl) | 简单的 C++ 几何处理库。 |
+| [LLGL](https://github.com/LukasBanana/LLGL) | Low Level Graphics Library 是现代图形 API 的一个轻量级抽象层。 |
+| [LunaSVG](https://github.com/sammycage/lunasvg) | 一个独立的 C++ SVG 渲染库。 |
+| [magnum](https://github.com/mosra/magnum) | 轻量级模块化的 C++11/C++14 图形中间件，适用于游戏和数据可视化。 |
+| [micro-gl](https://github.com/micro-gl/micro-gl) | 实时、可嵌入、仅头文件的 C++11 CPU 矢量图形库。无需标准库、无需 FPU 和无需 GPU。 |
+| [NanoVG](https://github.com/memononen/nanovg) | 基于 OpenGL 的抗锯齿 2D 矢量绘图库，用于 UI 和可视化。 |
+| [Ogre 3D](https://github.com/OGRECave) | 一个面向场景、实时、灵活的 3D 渲染引擎（而非游戏引擎），用 C++ 编写。 |
+
+---
+
+### 图像处理
+
+---
+| 项目 | 介绍 |
+|---|---|
+| [GDCM](http://gdcm.sourceforge.net/wiki/index.php/Main_Page) | Grassroots DICOM 库。 |
+| [ITK](http://www.itk.org/) | 一个用于图像分析的开源、跨平台系统。 |
+| [Jpegli](https://github.com/google/jpegli) | 一个改进的 JPEG 编码器和解码器实现。 |
+| [Leptonica](https://github.com/DanBloomberg/leptonica) | Leptonica 是一个开源库，包含广泛用于图像处理和图像分析应用的软件。 |
+| [libavif](https://github.com/AOMediaCodec/libavif) | 用于编码和解码 .avif 文件的库。 |
+| [libfacedetection](https://github.com/ShiqiYu/libfacedetection) | 用于图像人脸检测的开源库。人脸检测速度可达 1500FPS。 |
+| [libjpeg-turbo](https://github.com/libjpeg-turbo/libjpeg-turbo) | 一个 JPEG 图像编解码器，使用 SIMD 指令加速基线 JPEG 编码和解码。 |
+| [libjxl](https://github.com/libjxl/libjxl) | JPEG XL 图像格式参考实现。 |
+| [libpng](https://github.com/pnggroup/libpng) | 用于读取、创建和操作 PNG（便携式网络图形）栅格图像文件的应用程序的参考库。 |
+| [libspng](https://github.com/randy408/libspng) | 简单、现代的 libpng 替代方案。 |
+| [libvips](https://github.com/jcupitt/libvips) | 一个内存需求低、速度快的图像处理库。 |
+| [LodePNG](https://github.com/lvandeve/lodepng) | C 和 C++ 中的 PNG 编码器和解码器。 |
+| [Magick++](https://imagemagick.org/script/magick++.php) | ImageMagick 用于 C++ 的程序接口。 |
+| [MagickWnd](https://imagemagick.org/script/magick-wand.php) | ImageMagick 用于 C 的程序接口。 |
+| [MozJPEG](https://github.com/mozilla/mozjpeg) | 改进的 JPEG 编码器。 |
 
 ---
 
