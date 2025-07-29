@@ -29,8 +29,8 @@
 - [压缩](#压缩)
 - [密码与安全](#密码与安全)
 - [框架](#框架)
-- [c/c++ 教程笔记](#-cc-教程笔记)
-- [c/c++ 精选使用工具库/编程辅助](#-cc-实用工具库--编程辅助)
+- [c/c++ 教程笔记](#cc-教程笔记)
+- [c/c++ 精选使用工具库/编程辅助](#cc-实用工具库--编程辅助)
 - [参数解析器](#参数解析器)
 - [基准测试](#基准测试)
 - [并发](#并发)
@@ -168,7 +168,7 @@
 
 ---
 
-### 📖 C/C++ 教程笔记 
+### C/C++ 教程笔记 
 
 | 项目 | 简介 |
 |--------|------|
@@ -179,7 +179,7 @@
 
 ---
 
-### 📚 C/C++ 实用工具库 & 编程辅助
+### C/C++ 实用工具库 & 编程辅助
 | 项目                                                 | 简介                                         |
 | ------------------------------------------------------- | ------------------------------------------ |
 | [**fmt**](https://github.com/fmtlib/fmt)                | 快速、安全、现代的 C++ 格式化库，C++20 `std::format` 的前身 |
@@ -366,7 +366,7 @@
 
 ---
 
-### 📡 嵌入式 / RTOS / IoT 
+### 嵌入式 / RTOS / IoT 
 
 | 项目                                                            | 简介                                 |
 | -------------------------------------------------------------- | ---------------------------------- |
@@ -386,6 +386,36 @@
 | [iir1](https://github.com/berndporr/iir1)               | 实时 IIR 滤波器的 C++ 库            |
 | [kissfft](https://github.com/mborgerding/kissfft)       | 一个“保持简单”的快速傅里叶变换（FFT）库 |
 | [pocketfft](https://github.com/mreineck/pocketfft)      | 基于 FFTPack 的 FFT 实现，具备多个改进  |
+
+---
+
+### 数学
+
+| 项目 | 介绍 |
+|---|---|
+| [Eigen](http://eigen.tuxfamily.org/) | 一个用于线性代数、矩阵和向量运算、数值求解器及相关算法的高级 C++ 模板头文件库。 |
+| [ExprTk](https://www.partow.net/programming/exprtk/) | C++ 数学表达式工具包库 (ExprTk) 是一个易于使用、易于集成且极其高效的运行时数学表达式解析器和评估引擎。 |
+| [Geometric Tools](https://www.geometrictools.com) | 用于在数学、图形、图像分析和物理领域进行计算的 C++ 库。 |
+| [GLM](https://github.com/g-truc/glm) | 仅头文件的 C++ 数学库，与 OpenGL 的 GLSL 数学库匹配并可互操作。 |
+| [GMTL](http://ggt.sourceforge.net/) | 图形数学模板库是一个以通用方式实现图形基本元素的工具集合。 |
+| [GMP](https://gmplib.org/) | 一个用于任意精度算术的 C 库，可对有符号整数、有理数和浮点数进行操作。 |
+| [Klein](https://github.com/jeremyong/klein) | 一个快速、SIMD 优化的 C++17 几何代数库，用于点、线和平面的投影、交点、连接、刚体运动等。 |
+| [linalg.h](https://github.com/sgorsten/linalg) | 适用于 C++ 的单个头文件、公共领域、短向量数学库。 |
+| [MATIO](https://github.com/tbeu/matio) | MATLAB MAT 文件 I/O 库。 |
+| [MatX](https://github.com/NVIDIA/MatX) | 一个 GPU 加速的 C++17 数值计算库，具有 MATLAB/Python 风格的语法。 |
+| [MIRACL](https://github.com/CertiVox/MIRACL) | 一个多精度整数和有理数算术加密库。 |
+| [NumCpp](https://github.com/dpilger26/NumCpp) | Python Numpy 库的模板化仅头文件 C++ 实现。 |
+| [muparser](https://beltoforion.de/en/muparser) | muParser 是一个用 C++ 编写的可扩展高性能数学表达式解析器库。 |
+| [LibTomMath](https://github.com/libtom/libtommath) | 一个完全用 C 编写的免费开源便携式数论多精度整数库。 |
+| [linmath.h](https://github.com/datenwolf/linmath.h) | 一个精简的线性数学库，面向图形编程。 |
+| [lp_solve](https://sourceforge.net/projects/lpsolve) | 一个用于制定和解决线性规划问题的库。 |
+| [OpenBLAS](https://github.com/xianyi/OpenBLAS) | 一个基于 GotoBLAS2 1.13 BSD 版本的优化 BLAS 库。 |
+| [PCG-rand](https://www.pcg-random.org/) | PCG 是一系列简单、快速、节省空间、统计学上优秀的随机数生成算法。与许多通用 RNG 不同，它们也很难预测。 |
+| [QuantLib](https://github.com/lballabio/quantlib) | 一个免费/开源的量化金融库。 |
+| [SimSIMD](https://github.com/ashvardanian/SimSIMD) | 适用于 x86 AVX2、AVX-512、Arm NEON 和 SVE 的矢量距离函数。 |
+| [StatsLib](https://github.com/kthohr/stats) | 一个 C++ 仅头文件的统计分布函数库。 |
+| [SymEngine](https://github.com/symengine/symengine) | 快速符号操作库，SymPy 核心的 C++ 重写。 |
+| [TinyExpr](https://github.com/codeplea/tinyexpr) | 一个用于从字符串解析和评估数学表达式的 C 库。 |
 
 ---
 
@@ -418,6 +448,62 @@
 
 ---
 
+### 内存分配
+
+| 项目 | 介绍 |
+|---|---|
+| [Boehm GC](https://github.com/ivmai/bdwgc) | 适用于 C 和 C++ 的保守垃圾回收器。 |
+| [C Smart Pointers](https://github.com/Snaipe/libcsptr) | 适用于 (GNU) C 编程语言的智能指针。 |
+| [Hoard](https://github.com/emeryberger/Hoard) | 适用于 Linux、Windows 和 Mac 的快速、可扩展且内存高效的 Malloc 实现。 |
+| [jemalloc](https://github.com/jemalloc/jemalloc) | 通用 malloc(3) 实现，强调避免碎片和可伸缩的并发支持。 |
+| [memory](https://github.com/foonathan/memory) | 兼容 STL 的 C++ 内存分配器库。 |
+| [memory-allocators](https://github.com/mtrebi/memory-allocators) | 自定义内存分配器，用于提高动态内存分配的性能。 |
+| [mimalloc](https://github.com/microsoft/mimalloc) | 一个紧凑、高性能的通用分配器。 |
+| [rpmalloc](https://github.com/mjansson/rpmalloc) | 用 C 语言实现的跨平台无锁线程缓存 16 字节对齐内存分配器。 |
+| [snmalloc](https://github.com/microsoft/snmalloc) | 基于消息传递的高性能分配器。 |
+| [TCMalloc](https://github.com/google/tcmalloc) | Google 的快速、多线程 malloc 实现。 |
+| [buddy_alloc](https://github.com/spaskalev/buddy_alloc) | 一个 C 语言的单个头文件伙伴内存分配器，具有有限的分配成本。 |
+| [tgc](https://github.com/orangeduck/tgc) | 一个用约 500 行 C 代码编写的微型垃圾回收器。 |
+
+---
+
+### 网络
+
+| 项目 | 介绍 |
+|---|---|
+| [ada](https://github.com/ada-url/ada) | 符合 WHATWG 标准且快速的现代 C++ URL 解析器。 |
+| [ACE](http://www.dre.vanderbilt.edu/~schmidt/ACE.html) | 一个 C++ 面向对象网络编程工具包。 |
+| [Boost.Asio](https://github.com/boostorg/asio) | 一个用于网络和低级别 I/O 编程的跨平台 C++ 库。 |
+| [Boost.Beast](https://github.com/boostorg/beast) | 基于 Boost.Asio 在 C++11 中构建的 HTTP 和 WebSocket 库。 |
+| [Breep](https://github.com/Organic-Code/Breep) | 基于事件的高级 C++14 点对点库。 |
+| [C++ REST SDK](https://github.com/Microsoft/cpprestsdk) | C++ REST SDK（以前名为 Casablanca）。 |
+| [Restbed](https://github.com/corvusoft/restbed) | C++11 异步 RESTful 框架。 |
+| [Restinio](https://github.com/Stiffstream/restinio) | 一个仅头文件的 C++14 库，提供嵌入式 HTTP/Websocket 服务器功能。 |
+| [c-ares](https://github.com/c-ares/c-ares) | 一个用于异步 DNS 请求的 C 库。 |
+| [ENet](https://github.com/lsalzman/enet) | 可靠的 UDP 网络库。 |
+| [evpp](https://github.com/Qihoo360/evpp) | 支持 TCP/UDP/HTTP 协议的 C++ 高性能网络库。 |
+| [FTP client for C++](https://github.com/embeddedmz/ftpclient-cpp) | 用于发起 FTP 请求的 C++ 客户端。 |
+| [H2O](https://github.com/h2o/h2o) | 一个优化的 HTTP 服务器，支持 HTTP/1.x 和 HTTP/2。也可作为库使用。 |
+| [HTTP Parser](https://github.com/nodejs/http-parser) | 一个 C 语言的 HTTP 请求/响应解析器。 |
+| [KCP](https://github.com/skywind3000/kcp/blob/master/README.en.md) | 一个快速可靠的 ARQ 协议，有助于应用程序降低网络延迟。 |
+| [libcurl](http://curl.haxx.se/libcurl/) | 多协议文件传输库。 |
+| [libhttpserver](https://github.com/etr/libhttpserver) | 用于创建嵌入式 Rest HTTP 服务器（及更多）的 C++ 库。 |
+| [Libmicrohttpd](http://www.gnu.org/software/libmicrohttpd/) | GNU libmicrohttpd 是一个小型 C 库，旨在方便地在另一个应用程序中运行 HTTP 服务器。 |
+| [RedPanda](https://github.com/redpanda-data/redpanda) | 面向开发者的流数据平台，兼容 Kafka API，速度提升 10 倍。 |
+| [RakNet](https://github.com/OculusVR/RakNet) | 一个跨平台、开源的 C++ 网络引擎，专为游戏程序员设计。 |
+| [restclient-cpp](https://github.com/mrtazz/restclient-cpp) | 简单易用的 C++ REST 客户端，封装了 libcurl 进行 HTTP 请求。 |
+| [Seasocks](https://github.com/mattgodbolt/seasocks) | 简单、小巧的 C++ 嵌入式 Web 服务器，支持 WebSockets。 |
+| [tlse](https://github.com/eduardsui/tlse) | 单个 C 文件实现的 TLS 1.2/1.3，使用 tomcrypt 作为加密库。 |
+| [TQUIC](https://github.com/tencent/tquic) | 一个高性能、轻量级、跨平台的 QUIC 库，提供 C 和 C++ 接口。 |
+| [Tufão](https://github.com/vinipsmaker/tufao) | 一个基于 Qt 构建的异步 C++ Web 框架。 |
+| [uriparser](https://github.com/uriparser/uriparser) | 严格符合 RFC 3986 的 URI 解析和处理库。 |
+| [uWebSockets](https://github.com/uNetworking/uWebSockets) | µWS 是最轻量、高效且可扩展的 WebSocket 和 HTTP 服务器实现之一。 |
+| [UCall](https://github.com/unum-cloud/ucall) | 基于 io_uring 的高性能 SIMD 加速 RPC 库。 |
+| [WAFer](https://github.com/riolet/WAFer) | 一个基于 C 语言的超轻量级软件平台，适用于可扩展的服务器端和网络应用程序。可将其视为 C 程序员的 node.js。 |
+
+
+
+---
 ### 科学计算 / 高性能计算
 
 | 项目                                                            | 简介                                 |
