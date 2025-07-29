@@ -39,6 +39,7 @@
 - [机器学习与深度学习](#机器学习与深度学习)
 - [数据格式化与可视化](#数据格式化与可视化)
 - [文档生成工具](#文档生成工具)
+- [文档解析工具](#文档解析工具)
 - [数据结构与算法](#数据结构与算法)
 - [数据查询](#数据查询)
 - [嵌入式/RTOS/IOT](#嵌入式--rtos--iot)
@@ -47,6 +48,7 @@
 - [游戏引擎](#游戏引擎)
 - [内存分配](#内存分配)
 - [网络](#网络)
+- [反射](#反射)
 - [科学计算/高性能计算](#科学计算--高性能计算)
 - [数据库](#数据库)
 - [企业级/工程级组件](#企业级--工程级组件)
@@ -345,6 +347,20 @@
 
 ---
 
+### 文档解析工具
+
+| 项目 | 介绍 |
+|---|---|
+| [DuckX](https://github.com/amiremohamadi/DuckX) | 用于创建和修改 Microsoft Word (.docx) 文件的 C++ 库。 |
+| [FreeXL](https://www.gaia-gis.it/fossil/freexl/index) | 一个开源库，用于从电子表格中提取有效数据。 |
+| [libxls](https://github.com/libxls/libxls) | 从 C/C++ 读取二进制 Excel 文件。 |
+| [libxlsxwriter](https://github.com/jmcnamara/libxlsxwriter) | 一个用于创建 Excel XLSX 文件的 C 库。 |
+| [OpenXLSX](https://github.com/troldal/OpenXLSX) | 一个用于读取、写入、创建和修改 Microsoft Excel® (.xlsx) 文件的 C++ 库。 |
+| [SimpleXlsxWriter](https://sourceforge.net/projects/simplexlsx/) | 适用于 Microsoft Excel 2007 及更高版本的 XLSX 文件写入器。 |
+| [XLSX I/O](https://github.com/brechtsanders/xlsxio) | 用于读取和写入 .xlsx 文件的 C 库。 |
+
+---
+
 ### 数据结构与算法
 
 | 项目                                                             | 简介                                  |
@@ -498,19 +514,42 @@
 | [libcurl](http://curl.haxx.se/libcurl/) | 多协议文件传输库。 |
 | [libhttpserver](https://github.com/etr/libhttpserver) | 用于创建嵌入式 Rest HTTP 服务器（及更多）的 C++ 库。 |
 | [Libmicrohttpd](http://www.gnu.org/software/libmicrohttpd/) | GNU libmicrohttpd 是一个小型 C 库，旨在方便地在另一个应用程序中运行 HTTP 服务器。 |
-| [RedPanda](https://github.com/redpanda-data/redpanda) | 面向开发者的流数据平台，兼容 Kafka API，速度提升 10 倍。 |
-| [RakNet](https://github.com/OculusVR/RakNet) | 一个跨平台、开源的 C++ 网络引擎，专为游戏程序员设计。 |
-| [restclient-cpp](https://github.com/mrtazz/restclient-cpp) | 简单易用的 C++ REST 客户端，封装了 libcurl 进行 HTTP 请求。 |
-| [Seasocks](https://github.com/mattgodbolt/seasocks) | 简单、小巧的 C++ 嵌入式 Web 服务器，支持 WebSockets。 |
-| [tlse](https://github.com/eduardsui/tlse) | 单个 C 文件实现的 TLS 1.2/1.3，使用 tomcrypt 作为加密库。 |
-| [TQUIC](https://github.com/tencent/tquic) | 一个高性能、轻量级、跨平台的 QUIC 库，提供 C 和 C++ 接口。 |
-| [Tufão](https://github.com/vinipsmaker/tufao) | 一个基于 Qt 构建的异步 C++ Web 框架。 |
-| [uriparser](https://github.com/uriparser/uriparser) | 严格符合 RFC 3986 的 URI 解析和处理库。 |
-| [uWebSockets](https://github.com/uNetworking/uWebSockets) | µWS 是最轻量、高效且可扩展的 WebSocket 和 HTTP 服务器实现之一。 |
-| [UCall](https://github.com/unum-cloud/ucall) | 基于 io_uring 的高性能 SIMD 加速 RPC 库。 |
-| [WAFer](https://github.com/riolet/WAFer) | 一个基于 C 语言的超轻量级软件平台，适用于可扩展的服务器端和网络应用程序。可将其视为 C 程序员的 node.js。 |
+| [RedPanda](https://github.com/redpanda-data/redpanda) | 面向开发者的流数据平台，兼容 Kafka API，速度提升 10 倍 |
+| [RakNet](https://github.com/OculusVR/RakNet) | 一个跨平台、开源的 C++ 网络引擎，专为游戏程序员设计 |
+| [restclient-cpp](https://github.com/mrtazz/restclient-cpp) | 简单易用的 C++ REST 客户端，封装了 libcurl 进行 HTTP 请求 |
+| [Seasocks](https://github.com/mattgodbolt/seasocks) | 简单、小巧的 C++ 嵌入式 Web 服务器，支持 WebSockets |
+| [tlse](https://github.com/eduardsui/tlse) | 单个 C 文件实现的 TLS 1.2/1.3，使用 tomcrypt 作为加密库 |
+| [TQUIC](https://github.com/tencent/tquic) | 一个高性能、轻量级、跨平台的 QUIC 库，提供 C 和 C++ 接口 |
+| [Tufão](https://github.com/vinipsmaker/tufao) | 一个基于 Qt 构建的异步 C++ Web 框架 |
+| [uriparser](https://github.com/uriparser/uriparser) | 严格符合 RFC 3986 的 URI 解析和处理库 |
+| [uWebSockets](https://github.com/uNetworking/uWebSockets) | µWS 是最轻量、高效且可扩展的 WebSocket 和 HTTP 服务器实现之一 |
+| [UCall](https://github.com/unum-cloud/ucall) | 基于 io_uring 的高性能 SIMD 加速 RPC 库 |
+| [WAFer](https://github.com/riolet/WAFer) | 一个基于 C 语言的超轻量级软件平台，适用于可扩展的服务器端和网络应用程序。可将其视为 C 程序员的 node.js |
 
+---
 
+### 反射
+
+| 项目 | 介绍 |
+|---|---|
+| [config-loader](https://github.com/netcan/config-loader) | 一个 C++17 静态反射框架，用于将配置文件解析为原生数据结构。 |
+| [Better Enums](https://github.com/aantron/better-enums) | 反射枚举（转换为字符串，迭代）。单头文件。 |
+| [clReflect](https://github.com/Celtoys/clReflect) | 使用 clang 实现的 C++ 反射。 |
+| [CPFG](https://github.com/cpgf/cpgf) | 一个用于反射、回调和脚本绑定的 C++03 库。 |
+| [CPP-Reflection](https://github.com/AustinBrunkhorst/CPP-Reflection) | 使用 clang 实现的 C++ 反射。 |
+| [Easy Reflection](https://github.com/chocolacula/easy_reflection_cpp) | 像 Rust、Java 或 Go 中一样简单快速的反射 + 序列化解决方案。 |
+| [Magic Enum](https://github.com/Neargye/magic_enum) | 仅头文件的 C++17 库，为枚举提供静态反射（转换为字符串、从字符串转换、迭代），无需任何宏或样板代码即可与任何枚举类型配合使用。 |
+| [magic_get](https://github.com/apolukhin/magic_get) | 用户自定义类型（无需任何宏或样板代码）的 `std::tuple` 类似方法。 |
+| [meta](https://github.com/skypjack/meta) | C++ 中仅头文件、非侵入式且无宏的运行时反射系统。 |
+| [Nameof](https://github.com/Neargye/nameof) | 仅头文件的 C++17 库，提供 `nameof` 宏和函数以获取变量、类型、函数、宏和枚举的简单名称。 |
+| [Ponder](https://github.com/billyquith/ponder) | 一个用于反射的 C++11 库。 |
+| [REFLECT](https://github.com/qlibs/reflect) | C++20 静态反射库。 |
+| [reflect-cpp](https://github.com/getml/reflect-cpp) | 通过反射实现序列化，包括从结构体自动检索字段名称。 |
+| [RTTR](https://github.com/rttrorg/rttr) | 一个用于反射的 C++11 库。 |
+| [simple_enum](https://github.com/arturbac/simple_enum) | 一个快速、直观且类型安全的 C++ 枚举支持库。 |
+| [TSMP](https://github.com/fabian-jung/tsmp) | 一个非侵入式、无宏的 C++20 静态反射库。它使用 libclang 从源代码中提取反射数据，并通过模板特化使其可用。 |
+| [visit_struct](https://github.com/cbeck88/visit_struct) | 一个用于 C++ 中结构体字段反射的微型库。 |
+| [Refureku](https://github.com/jsoysouvanh/Refureku) | 一个 C++17 运行时反射和代码生成库。 |
 
 ---
 ### 科学计算 / 高性能计算
@@ -610,7 +649,6 @@
 
 ### 图形
 
----
 | 项目 | 介绍 |
 |---|---|
 | [assimp](https://github.com/assimp/assimp) | Open Asset Import Library 是一个跨平台的 3D 模型导入库，旨在为不同的 3D 资产文件格式提供一个通用的 API。 |
@@ -639,7 +677,6 @@
 
 ### 图像处理
 
----
 | 项目 | 介绍 |
 |---|---|
 | [GDCM](http://gdcm.sourceforge.net/wiki/index.php/Main_Page) | Grassroots DICOM 库。 |
