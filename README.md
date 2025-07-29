@@ -86,7 +86,6 @@
 | [Verovio](https://github.com/rism-ch/verovio)                             | 快速轻量的音乐符号排版引擎  |
 | [Wav2Letter++](https://github.com/facebookresearch/wav2letter/)           | 公有领域的快速开源语音处理工具包，完全用 C++ 编写，并使用 ArrayFire 和 Flashlight 库实现高效计算。 |
 
-
 ---
 
 ### 通信
@@ -138,7 +137,6 @@
 | [Veles](https://github.com/Samsung/veles)                             | 一个分布式平台，用于快速开发深度学习应用          |
 | [Kaldi](https://github.com/kaldi-asr/kaldi)                           | 用于语音识别的工具包     |
 
-
 ---
 
 ### 📖 C/C++ 教程笔记 
@@ -174,6 +172,8 @@
 | [**indicators**](https://github.com/p-ranav/indicators) | 美观的 CLI 进度条库（C++）                          |
 
 ---
+
+
 
 ### 参数解析器
 
@@ -252,7 +252,7 @@
 
 ---
 
-### 数据格式化与打印展示
+### 数据格式化与可视化
 
 | 项目                                                     | 简介                                 |
 | ------------------------------------------------------------- | ---------------------------------- |
@@ -264,6 +264,21 @@
 | [strf](https://github.com/robhz786/strf)                      | 一个为 C++14 设计的快速格式化库。               |
 | [tabulate](https://github.com/p-ranav/tabulate)               | 用于现代 C++ 的表格生成工具。                  |
 | [backward-cpp](https://github.com/bombela/backward-cpp)               | 一个漂亮的 C++堆栈跟踪美化打印程序                |
+| [gplot++](https://github.com/ziotom78/gplotpp)               | 跨平台、仅头文件的 C++ 绘图库，接口兼容 Gnuplot |
+| [matplotplusplus](https://github.com/alandefreitas/matplotplusplus) | 用于数据可视化的 C++ 图形库。                      |
+| [morphologica](https://github.com/ABRG-Models/morphologica)         | 基于现代 OpenGL 的 C++ 仅头文件图形与数据可视化工具 |
+
+---
+
+### 文档生成工具
+
+| 项目                                                           | 简介          |
+| ------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------- |
+| [Doxide](https://github.com/lawmurray/doxide)              | 面向现代 C++ 的现代文档生成工具，使用 YAML 进行配置，输出为 Markdown 格式 |
+| [doxygen](https://github.com/doxygen/doxygen)              |  C++ 注释文档生成的事实标准工具。可根据带注释的源代码生成文档        |
+| [hdoc](https://github.com/hdoc/hdoc)                       | 面向 C++ 的现代文档生成工具     |
+| [Natural Docs](https://github.com/NaturalDocs/NaturalDocs) | 一个开源文档生成器，支持多种编程语言   |
+| [Sphinx](https://github.com/sphinx-doc/sphinx)             | 一个能够轻松创建智能而美观文档的工具   |
 
 ---
 
@@ -308,6 +323,18 @@
 
 ---
 
+### 数字信号处理
+
+| 项目                                                        | 简介                                            |
+| --------------------------------------------------------- | ----------------------------------------------- |
+| [DSPFilters](https://github.com/vinniefalco/DSPFilters) | 一组用于数字信号处理的实用 C++ 类库 |
+| [FFTW](http://www.fftw.org/)                            | 用于计算一维或多维离散傅里叶变换（DFT）的 C 语言库  |
+| [iir1](https://github.com/berndporr/iir1)               | 实时 IIR 滤波器的 C++ 库            |
+| [kissfft](https://github.com/mborgerding/kissfft)       | 一个“保持简单”的快速傅里叶变换（FFT）库 |
+| [pocketfft](https://github.com/mreineck/pocketfft)      | 基于 FFTPack 的 FFT 实现，具备多个改进  |
+
+---
+
 ### 🎨 游戏引擎 / 图形渲染
 
 | 项目                                                            | 简介                                 |
@@ -319,6 +346,21 @@
 | [**limitless-engine**](https://github.com/hotstreams/limitless-engine)    | 使用 C++17 和现代 OpenGL 构建的渲染引擎，聚焦高性能和低延迟 |
 | [**Wicked Engine**](https://github.com/turanszkij/WickedEngine)    | 现代 OpenGL/Vulkan 引擎，带编辑器和脚本系统，可用于学习使用 |
 | [**Diligent Engine**](https://github.com/DiligentGraphics/DiligentEngine)                    | 跨平台渲染框架，封装 DirectX12/Vulkan/Metal 等主流 API，适合 3D 可视化类项目    |
+| [**Acid**](https://github.com/Equilibrium-Games/Acid) | 一个高速的 C++17 Vulkan 游戏引擎  |
+| [**Allegro**](http://liballeg.org/) | 一个跨平台库，主要用于视频游戏和多媒体编程  |
+| [**Axmol Engine**](https://github.com/axmolengine/axmol) | 一个跨平台的桌面、移动和 XBOX（UWP）游戏引擎，源自 Cocos2d-x-4.0  |
+| [**Cocos2d-x**](http://www.cocos2d-x.org/) | 一个用纯 C、SDL 和 OpenGL 编写的游戏引擎  |
+| [**crown**](https://github.com/dbartolini/crown) | 开源 C++ 游戏引擎，支持 Windows/Linux/Android  |
+| [**Corange**](https://github.com/orangeduck/Corange) | Crown 是一个通用数据驱动游戏引擎，用正统 C++从头编写，具有极简主义和数据导向的设计理念  |
+| [**delta3d**](http://sourceforge.net/projects/delta3d/) | 一个强大的模拟平台  |
+| [**GamePlay**](https://github.com/gameplay3d/GamePlay) |  一个跨平台的原生 C++游戏框架，用于创建 2D/3D 移动和桌面游戏  |
+| [**Grit**](https://github.com/grit-engine/grit-engine) | 一个社区项目，旨在构建一个免费的 3D 开放世界游戏引擎  |
+| [**Halley**](https://github.com/amzeratul/halley) | 一个用 C++14 编写的轻量级游戏引擎，具有"真正"的实体-组件系统  |
+| [**Hazel Game Engine**](https://github.com/TheCherno/Hazel) | Hazel 主要是一个用于 Windows 的早期阶段交互式应用程序和渲染引擎  |
+| [**Boden**](https://github.com/AshampooSystems/boden) | 原生、移动、跨平台 GUI 框架  |
+| [**CEGUI**](http://cegui.org.uk/) | 灵活的跨平台 GUI 库  |
+| [**Elements**](https://github.com/cycfi/elements) | 轻量级、细粒度、分辨率无关、模块化 GUI 库  |
+| [**GacUI**](https://github.com/vczh-libraries/GacUI) | GPU 加速的 C++用户界面，具有所见即所得开发工具、XML 支持、内置数据绑定和 MVVM 功能  |
 
 ---
 
@@ -334,14 +376,44 @@
 
 ---
 
-### 数据库 / 存储组件
+### 数据库
 
 | 项目                                                     | 简介                      |
 | ------------------------------------------------------- | ----------------------- |
-| [**rocksdb**](https://github.com/facebook/rocksdb)      | Facebook 出品的高性能嵌入式键值数据库 |
-| [**sqlite\_orm**](https://github.com/fnc12/sqlite_orm)  | SQLite 的现代 C++ ORM 封装   |
-| [**SQLiteCpp**](https://github.com/SRombauts/SQLiteCpp) | SQLite 的 C++ 封装库        |
-| [**OTL**](http://otl.sourceforge.net/) | Oracle、ODBC 和 DB2-CLI 模板库   |
+| [rocksdb](https://github.com/facebook/rocksdb)      | Facebook 出品的高性能嵌入式键值数据库 |
+| [sqlite\_orm](https://github.com/fnc12/sqlite_orm)  | SQLite 的现代 C++ ORM 封装   |
+| [SQLiteCpp](https://github.com/SRombauts/SQLiteCpp) | SQLite 的 C++ 封装库        |
+| [OTL](http://otl.sourceforge.net/) | Oracle、ODBC 和 DB2-CLI 模板库   |
+| [ClickHouse](https://github.com/ClickHouse/clickhouse-cpp) | ClickHouse 数据库的 C++ 客户端。                |
+| [CrossDB](https://github.com/crossdb-org/crossdb)          | 超高性能轻量级嵌入式与服务器端 OLTP 关系型数据库管理系统 |
+| [DuckDB](https://duckdb.org/)                              | 嵌入式 SQL OLAP 数据库管理系统，专为分析型查询设计。         |
+| [hiberlite](https://github.com/paulftw/hiberlite)          | SQLite3 的 C++ 对象关系映射（ORM）库。             |
+| [Hiredis](https://github.com/redis/hiredis)                | Redis 数据库的极简 C 客户端库。                    |
+| [Infinity](https://github.com/infiniflow/infinity)         | 面向大语言模型应用的 AI 原生数据库，支持超快向量与全文检索 |
+| [Kuzu](https://github.com/kuzudb/kuzu)                     | 可嵌入的属性图数据库，支持高性能查询与扩展性，实现了 Cypher 语言。   |
+| [Kvrocks](https://github.com/apache/incubator-kvrocks)     | 使用 RocksDB 作为存储引擎，兼容 Redis 协议的分布式键值数据库 |
+| [LevelDB](https://github.com/google/leveldb)               | Google 开发的快速键值存储库，提供从字符串键到字符串值的有序映射。    |
+| [libpg\_query](https://github.com/pganalyze/libpg_query)   | 用于在服务器外部访问 PostgreSQL 解析器的 C 库。         |
+| [LMDB](https://github.com/LMDB/lmdb)                 | Lightning Memory-Mapped Database，快速嵌入式键值数据库，使用 B+ 树结构。 |
+| [MapLite](https://github.com/griffin-stewie/maplite) | 基于 C++17 的轻量型数据库管理系统（DBMS），使用 mmap 进行零拷贝持久化。           |
+| [Monarch](https://github.com/torchcc/monarch)        | 支持可插拔存储引擎的嵌入式 KV 存储系统，API 简洁，目标与 RocksDB 类似。           |
+| [nanoDB](https://github.com/kingwo/nanoDB)           | 单文件实现的小型 C 语言数据库，采用文本与二进制混合存储  |
+| [Pelikan](https://github.com/twitter/pelikan)        | Twitter 开发的模块化、高性能缓存框架，支持多种协议（memcached、redis 等）。      |
+| [PostgreSQL](https://github.com/postgres/postgres)   | 世界领先的企业级开源关系型数据库系统，支持 SQL 标准与扩展特性   |
+| [QuickDB](https://github.com/SaddestPerson/QuickDB)  | 简单的文件键值存储解决方案，使用 JSON 持久化，无需依赖   |
+| [RocksDB](https://github.com/facebook/rocksdb)       | Facebook 基于 LevelDB 构建的高性能持久化 KV 数据库，支持压缩与并发  |
+| [SimpleKV](https://github.com/IceKhan13/SimpleKV)    | 教学用 C++ 实现的键值数据库，逻辑清晰，适合入门学习数据库实现  |
+| [SkyTable](https://github.com/skytable/skytable)     | 通用 NoSQL 数据库，支持强一致性与内存索引优化，支持多种数据结构     |
+| [sled](https://github.com/spacejam/sled)                         | 嵌入式数据库，具有锁自由并发支持、崩溃恢复与写前日志机制，Rust 开发但提供 C FFI 接口。           |
+| [sqlite](https://github.com/sqlite/sqlite)                       | 世界上最流行的轻量级嵌入式 SQL 数据库，广泛应用于移动端和嵌入式系统。                       |
+| [tiny-database](https://github.com/MattiasBuelens/tiny-database) | C++ 实现的简单 SQL 引擎，内置解析器与执行器，适合数据库原理教学。                       |
+| [TinySQL](https://github.com/luoxinran27/TinySQL)                | 复旦大学数据库课程实验项目，C++ 实现类 SQL 数据库系统，代码结构清晰。                     |
+| [Tkrzw](https://github.com/estraier/tkrzw)                       | Google Tokyo Cabinet 与 Kyoto Cabinet 的继承者，高性能键值存储，支持多种数据结构。 |
+| [Unqlite](https://github.com/symisc/unqlite)                     | 嵌入式 NoSQL 数据库引擎，支持键值存储与 JSON 文档模型，设计类 SQLite。               |
+| [Valkey](https://github.com/valkey-io/valkey)                    | Redis 社区分支，继承 Redis 7.x 代码并持续优化维护，性能稳定。                     |
+| [Velociraptor](https://github.com/Velocidex/velociraptor)        | 针对终端取证与安全监控的开源平台，核心存储引擎为可插拔嵌入式数据库。                          |
+| [WiredTiger](https://github.com/wiredtiger/wiredtiger)           | MongoDB 默认存储引擎，支持并发、事务、压缩等高级特性    |
+| [YouDB](https://github.com/SunJieMing/youdb)                     | 手写 KV 存储引擎项目，设计类 LevelDB，适合学习数据库引擎开发过程。                     |
 
 ---
 
