@@ -2,13 +2,13 @@
 | 项目 | 介绍 |
 |---|---|
 | [256-Color VGA Programming in C](http://www.brackeen.com/vga/) | C 语言 256 色 VGA 编程 - David Brackeen |
-| [A Tutorial on Pointers and Arrays in C](https://web.archive.org/web/20180827131006/http://home.earthlink.net/~momotuk/pointers.pdf) | C 语言指针与数组教程 - Ted Jensen (PDF) (已存档) |
+| [A Tutorial on Pointers and Arrays in C](https://web.archive.org/web/20180827131006/http://home.earthlink.net/~momotuk/pointers.pdf) | C 语言指针与数组教程 - Ted Jensen (PDF)  |
 | [Algorithms Design (in C)](https://www.ime.usp.br/~pf/algorithms/) | 算法设计 (C 语言版) - Paulo Feofiloff (HTML) |
 | [Bare-metal programming for ARM](https://github.com/umanovskis/baremetal-arm) | ARM 裸机编程 - Daniels Umanovskis [(PDF)](http://umanovskis.se/files/arm-baremetal-ebook.pdf) |
 | [Beej's Guide to C Programming](http://beej.us/guide/bgc/) | Beej 的 C 语言编程指南 - Brian "Beej Jorgensen" Hall (HTML, PDF) (CC BY-NC-ND) |
 | [Beej's Guide to the GNU Debugger (GDB)](http://beej.us/guide/bggdb/) | Beej 的 GNU 调试器 (GDB) 指南 - Brian "Beej Jorgensen" Hall (HTML) (CC BY-NC-ND) |
 | [Build Your Own Lisp](http://www.buildyourownlisp.com) | 自己动手构建 Lisp - Daniel Holden |
-| [Build Your Own Redis with C/C++](https://build-your-own.org) | 使用 C/C++ 构建自己的 Redis - build-your-own.org (HTML) (建设中) |
+| [Build Your Own Redis with C/C++](https://build-your-own.org) | 使用 C/C++ 构建自己的 Redis - build-your-own.org (HTML) |
 | [C Elements of Style](http://www.oualline.com/books.free/style/) | C 语言风格要素 - Steve Oualline |
 | [C for Python Programmers](http://www.cburch.com/books/cpy/) | 面向 Python 程序员的 C 语言 - Carl Burch |
 | [C Handbook](https://thevalleyofcode.com/c/) | C 语言手册 - Flavio Copes (HTML, PDF) |
@@ -36,8 +36,8 @@
 | [Structures and C](https://www.smashwords.com/books/view/644937) | 结构体与 C 语言 - Prakash Hegade |
 | [The Basics of C Programming](https://www.phys.uconn.edu/~rozman/Courses/P2200_13F/downloads/TheBasicsofCProgramming-draft-20131030.pdf) | C 语言编程基础 - Marshall Brain (PDF) |
 | [The C book](http://publications.gbdirect.co.uk/c_book/) | C 语言书籍 - Mike Banahan, Declan Brady, Mark Doran (PDF, HTML) |
-| [The C Programming Language Handbook](https://flaviocopes.com/page/c-handbook/) | C 语言编程手册 - Flavio Copes (PDF, EPUB, Kindle) (需要邮箱地址) |
-| [The Current C Programming Language Standard – ISO/IEC 9899:2018 (C17/C18), Draft](https://web.archive.org/web/20181230041359/http://www.open-std.org/jtc1/sc22/wg14/www/abq/c17_updated_proposed_fdis.pdf) | 当前 C 语言编程标准 – ISO/IEC 9899:2018 (C17/C18)，草案 - Open Standards Org (PDF) (已存档) |
+| [The C Programming Language Handbook](https://flaviocopes.com/page/c-handbook/) | C 语言编程手册 - Flavio Copes (PDF, EPUB, Kindle)  |
+| [The Current C Programming Language Standard – ISO/IEC 9899:2018 (C17/C18), Draft](https://web.archive.org/web/20181230041359/http://www.open-std.org/jtc1/sc22/wg14/www/abq/c17_updated_proposed_fdis.pdf) | 当前 C 语言编程标准 – ISO/IEC 9899:2018 (C17/C18)，草案 - Open Standards Org (PDF) |
 | [The GNU C Programming Tutorial](http://www.crasseux.com/books/ctut.pdf) | GNU C 语言编程教程 - Mark Burgess, Ron Hale-Evans (PDF) |
 | [The GNU C Reference Manual](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html) | GNU C 语言参考手册 - Trevis Rothwell, James Youngman (HTML) [(PDF)](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.pdf) |
 | [The little book about OS development](http://littleosbook.github.io) | 操作系统开发小书 - Erik Helin, Adam Renberg |
@@ -50,7 +50,7 @@
 
 | 项目 | 介绍 |
 |---|---|
-| [A Complete Guide to Standard C++ Algorithms](https://github.com/HappyCerberus/book-cpp-algorithms) | 标准 C++ 算法完整指南 - Šimon Tóth (PDF, LaTeX) (CC BY-NC-SA) (进行中) |
+| [A Complete Guide to Standard C++ Algorithms](https://github.com/HappyCerberus/book-cpp-algorithms) | 标准 C++ 算法完整指南 - Šimon Tóth (PDF, LaTeX) (CC BY-NC-SA)  |
 | [An Introduction to the USA Computing Olympiad, C++ Edition](https://darrenyao.com/usacobook/cpp.pdf) | USA 计算机奥林匹克入门，C++ 版 - Darren Yao (PDF) |
 | [C++ Annotations](https://fbb-git.gitlab.io/cppannotations/) | C++ 注解 - Frank B. Brokken (HTML, PDF) |
 | [C++ Coding Standard](https://possibility.com/Cpp/CppCodingStandard.html) | C++ 编码标准 - Todd Hoff (HTML, PDF) |
@@ -61,17 +61,17 @@
 | [C++ Notes for Professionals](https://goalkicker.com/CPlusPlusBook) | 专业人士的 C++ 笔记 - 从 StackOverflow 文档编译 (PDF) (CC BY-SA) |
 | [C++ Programming](https://en.wikibooks.org/wiki/C%2B%2B_Programming) | C++ 编程 - Panic, 等。 |
 | [C++ Programming: Code patterns design](https://en.wikibooks.org/wiki/C%2B%2B_Programming/Code/Design_Patterns) | C++ 编程：代码模式设计 - WikiBooks (HTML) |
-| [C++ Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/cplusplus) | C++ 简明教程，Syncfusion (PDF, Kindle) (可选提供邮箱地址) |
+| [C++ Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/cplusplus) | C++ 简明教程，Syncfusion (PDF, Kindle)  |
 | [C++ Tricks](http://www.bordoon.com/cplusplus/book_wrapper.html) | C++ 技巧 |
 | [C++ Tutorial](https://www.cprogramming.com/tutorial/c++-tutorial.html) | C++ 教程 - Alex Allain |
 | [CS106X Programming Abstractions in C++](http://web.stanford.edu/class/cs106x/) | CS106X C++ 编程抽象 |
 | [Elements of Programming](http://elementsofprogramming.com) | 编程要素 - Alexander Stepanov, Paul McJones (PDF) |
 | [Essential C++](https://www.programming-books.io/essential/cpp/) | C++ 要点 - Krzysztof Kowalczyk, StackOverflow 贡献者 (CC BY-SA) |
 | [Financial Numerical Recipes in C++](https://ba-odegaard.no/gcc_prog/recipes/) | C++ 金融数值算法 - Bernt Arne Ødegaard (PDF) |
-| [Fundamentals of C++ Programming](https://web.archive.org/web/20191005170118/https://python.cs.southern.edu/cppbook/progcpp.pdf) | C++ 编程基础 - Richard L. Halterman (PDF) (已存档) |
+| [Fundamentals of C++ Programming](https://web.archive.org/web/20191005170118/https://python.cs.southern.edu/cppbook/progcpp.pdf) | C++ 编程基础 - Richard L. Halterman (PDF) |
 | [Game Programming Patterns](http://gameprogrammingpatterns.com/contents.html) | 游戏编程模式 (HTML) |
 | [Google's C++ Style Guide](https://google.github.io/styleguide/cppguide.html) | Google C++ 风格指南 |
-| [Hands-On System Programming with C++](https://www.packtpub.com/free-ebook/hands-on-system-programming-with-c/9781789137880) | C++ 系统编程实战 - Rian Quinn (需要 Packt 账户) |
+| [Hands-On System Programming with C++](https://www.packtpub.com/free-ebook/hands-on-system-programming-with-c/9781789137880) | C++ 系统编程实战 - Rian Quinn |
 | [How to make an Operating System](https://samypesse.gitbook.io/how-to-create-an-operating-system/) | 如何制作一个操作系统 - Samy Pesse |
 | [How To Think Like a Computer Scientist: C++ Version](http://greenteapress.com/thinkcpp/index.html) | 像计算机科学家一样思考：C++ 版本 - Allen B. Downey |
 | [Introduction to Design Patterns in C++ with Qt 4](http://ptgmedia.pearsoncmg.com/images/9780131879058/downloads/0131879057_Ezust_book.pdf) | C++ 和 Qt 4 设计模式入门 - Alan Ezust, Paul Ezust (PDF) |
@@ -91,7 +91,7 @@
 | [The Ultimate Question of Programming, Refactoring, and Everything](https://www.gitbook.com/book/alexastva/the-ultimate-question-of-programming-refactoring-/details) | 编程、重构以及一切的终极问题 |
 | [Think C++: How To Think Like a Computer Scientist](https://greenteapress.com/wp/think-c/) | 像计算机科学家一样思考：C++ - Allen B. Downey (PDF) |
 | [Thinking in C++, Second Edition, Vol. 1.](https://archive.org/details/TICPP2ndEdVolOne) | 深入 C++（第二版，第 1 卷） - Bruce Eckel [(第 2 卷)](https://archive.org/details/TICPP2ndEdVolTwo) |
-| [Working Draft, Standard for Programming Language C++, 2021 Revision](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2021/n4885.pdf) | 编程语言 C++ 标准工作草案，2021 修订版 - Thomas Köppe (PDF) (进行中) |
+| [Working Draft, Standard for Programming Language C++, 2021 Revision](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2021/n4885.pdf) | 编程语言 C++ 标准工作草案，2021 修订版 - Thomas Köppe (PDF)  |
 
 ---
 
