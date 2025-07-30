@@ -53,10 +53,11 @@
 - [数据库](#数据库)
 - [企业级/工程级组件](#企业级--工程级组件)
 - [小型游戏](#小型游戏)
-
-
-
-
+- [Android / 虚拟化 / 容器运行相关](#android--虚拟化--容器运行相关)
+- [图形](#图形)
+- [图像处理](#图像处理)
+- [事件处理机制](#事件处理机制)
+- [人工智能](#人工智能)
 
 ---
 
@@ -733,6 +734,25 @@
 | [**eventpp**](https://github.com/wqking/eventpp) | C++事件分发器和回调列表 |
 | [**periodic-function**](https://github.com/DeveloperPaul123/periodic-function) | 指定时间间隔的回调 |
 
+---
+
+### 人工智能
+
+| 项目 | 介绍 |
+|---|---|
+| [ANNetGPGPU](https://github.com/ANNetGPGPU/ANNetGPGPU) | 一个基于 GPU (CUDA) 的人工神经网络库。 |
+| [btsk](https://github.com/aigamedev/btsk) | 游戏行为树入门套件。 |
+| [Evolving Objects](http://eodev.sourceforge.net/) | 一个基于模板的 ANSI-C++ 进化计算库，可帮助您极快地编写自己的随机优化算法。 |
+| [Genann](https://github.com/codeplea/genann) | 一个简单的 C 语言神经网络库。 |
+| [MXNet](https://github.com/apache/incubator-mxnet) | 轻量级、可移植、灵活的分布式/移动深度学习库，具有动态、感知突变的数据流依赖调度器；支持 Python、R、Julia、Scala、Go、JavaScript 等。 |
+| [PyTorch](https://github.com/pytorch/pytorch) | Python 中的张量和动态神经网络，具有强大的 GPU 加速功能。 |
+| [flashlight](https://github.com/flashlight/flashlight) | Flashlight 是一个完全用 C++ 编写的快速、灵活的机器学习库。 |
+| [Recast/Detour](https://github.com/recastnavigation/recastnavigation) | （3D）导航网格生成器和寻路器，主要用于游戏。 |
+| [TensorFlow](https://github.com/tensorflow/tensorflow) | 一个使用数据流图进行数值计算的开源软件库。 |
+| [oneDNN](https://github.com/oneapi-src/oneDNN) | 一个用于深度学习应用的开源跨平台性能库。 |
+| [CNTK](https://github.com/Microsoft/CNTK) | Microsoft Cognitive Toolkit (CNTK)，一个开源深度学习工具包。 |
+| [Veles](https://github.com/Samsung/veles) | 用于快速深度学习应用开发的分布式平台。 |
+| [Kaldi](https://github.com/kaldi-asr/kaldi) | 语音识别工具包。 |
 
 ---
 ### 免责声明
