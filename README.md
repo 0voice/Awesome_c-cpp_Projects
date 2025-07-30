@@ -176,6 +176,34 @@
 | [tiny-dnn](https://github.com/tiny-dnn/tiny-dnn)                      | C++11 实现的头文件式、无依赖的深度学习框架  |
 | [Veles](https://github.com/Samsung/veles)                             | 一个分布式平台，用于快速开发深度学习应用          |
 | [Kaldi](https://github.com/kaldi-asr/kaldi)                           | 用于语音识别的工具包     |
+| [abseil-cpp](https://github.com/abseil/abseil-cpp) | Abseil C++ 通用库。 |
+| [AUI](https://github.com/aui-framework/aui) | 适用于 C++20 的声明式 UI 工具包。 |
+| [Boost](https://github.com/boostorg) | 大量的通用 C++ 库集合。 |
+| [BDE](https://github.com/bloomberg/bde) | 彭博实验室的 BDE 开发环境。 |
+| [C++ Workflow](https://github.com/sogou/workflow) | C++ 并行计算和异步网络引擎。 |
+| [CGraph](https://github.com/ChunelFeng/CGraph) | 一个不依赖任何第三方的基于 C++ 的跨平台 DAG 框架。 |
+| [Cxxomfort](http://ryan.gulix.cl/fossil.cgi/cxxomfort/) | 一个小型、仅头文件的库，将较新 C++ 标准的各种功能反向移植到 C++03 及更高版本。 |
+| [Dlib](https://github.com/davisking/dlib) | 一个用于在 C++ 中构建实际机器学习和数据分析应用的工具包。 |
+| [EASTL](https://github.com/electronicarts/EASTL) | Electronic Arts 标准模板库。 |
+| [ETL](https://github.com/ETLCPP/etl) | 嵌入式模板库。 |
+| [ffead-cpp](https://github.com/sumeetchhetri/ffead-cpp) | 企业应用开发框架。 |
+| [Folly](https://github.com/facebook/folly) | Facebook 开发和使用的开源 C++ 库。 |
+| [FunctionalPlus](https://github.com/Dobiasd/FunctionalPlus) | 适用于 C++ 的函数式编程库。编写简洁易读的 C++ 代码。 |
+| [GLib](https://wiki.gnome.org/Projects/GLib) | GLib 为用 C 语言编写的库和应用程序提供核心应用构建模块。 |
+| [itlib](https://github.com/iboB/itlib) | 一系列类似 std 的单头文件 C++ 库。 |
+| [Kigs framework](https://github.com/Kigs-framework/kigs) | 一个免费开源的 C++ 模块化多用途跨平台 RAD 框架。 |
+| [libPhenom](https://github.com/facebook/libphenom) | libPhenom 是一个事件处理框架，用于在 C 语言中构建高性能和高可伸缩性系统。 |
+| [LibSourcey](https://github.com/sourcey/libsourcey) | 适用于实时视频流和高性能网络应用的 C++11 事件驱动 I/O。 |
+| [MiLi](https://github.com/MariadeAnton/MiLi) | 最小的仅头文件 C++ 库。 |
+| [OpenFrameworks](https://github.com/openframeworks/openFrameworks) | 一个用于 C++ 创意编程的跨平台开源工具包。 |
+| [PhotonLibOS](https://github.com/alibaba/PhotonLibOS) | 一个全面的 C++ 框架，具有高效的用户空间线程（带工作窃取的协程）、I/O、网络、RPC、HTTP 等功能，并在阿里巴巴广泛使用。它兼容 C++ 14/17/20/23、Linux、MacOS、x86-64、ARM64、gcc 和 clang。 |
+| [Qt](https://github.com/qt) | 一个跨平台应用程序和 UI 框架。 |
+| [Reason](http://code.google.com/p/reason/) | 一个跨平台框架，旨在为需要 C++ 性能和强度的开发人员带来 Java、.Net 或 Python 的易用性。 |
+| [SaneCppLibraries](https://github.com/Pagghiu/SaneCppLibraries) | 一组适用于 macOS、Windows 和 Linux 的 C++ 平台抽象库。 |
+| [STLport](http://www.stlport.org/) | 一个 STL 的示例版本。 |
+| [STXXL](http://stxxl.sourceforge.net/) | 用于超大数据集的标准模板库。 |
+| [Ultimate++](http://www.ultimatepp.org/) | 一个 C++ 跨平台快速应用开发框架。 |
+| [Windows Template Library](http://sourceforge.net/projects/wtl/) | 一个用于开发 Windows 应用程序和 UI 组件的 C++ 库。 |
 
 ---
 
