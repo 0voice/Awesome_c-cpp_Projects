@@ -53,7 +53,7 @@
 - [科学计算/高性能计算](#科学计算--高性能计算)
 - [数据库](#数据库)
 - [企业级/工程级组件](#企业级--工程级组件)
-- [小型游戏](#小型游戏)
+- [C++ 制作的游戏](#游戏)
 - [Android / 虚拟化 / 容器运行相关](#android--虚拟化--容器运行相关)
 - [图形](#图形)
 - [图像处理](#图像处理)
@@ -649,15 +649,63 @@
 
 
 ---
-### 小型游戏
+### 游戏
 
 | 项目                                                                   | 简介                       |
 | -------------------------------------------------------------------- | ------------------------ |
-| [**TinyTetris**](https://github.com/taylorconor/tinytetris)              | 纯 C 语言实现的经典俄罗斯方块游戏，控制台界面 |
-| [**sudoku**](https://github.com/mayerui/sudoku)    | 控制台数独小游戏，C++ 实现         |
-| [**godot**](https://github.com/godotengine/godot)  | 著名的跨平台开源游戏引擎，支持 2D/3D   |
-| [**filament**](https://github.com/google/filament) | Google 推出的实时物理渲染引擎（C++） |
-| [**kilo**](https://github.com/antirez/kilo)        | 极简终端文本编辑器（游戏引擎初学者可参考）   |
+| [TinyTetris](https://github.com/taylorconor/tinytetris)              | 纯 C 语言实现的经典俄罗斯方块游戏，控制台界面 |
+| [sudoku](https://github.com/mayerui/sudoku)    | 控制台数独小游戏，C++ 实现         |
+| [GoBangByCpp](https://github.com/zz2summer/GoBangByCpp) | C++ 实现双人对战五子棋项目。 |
+| [mazecode](https://github.com/Superone77/Cpp-basic-learning/tree/master/imooc_code/mazecode) | 自动走迷宫：慕课网 C++ 课程封装篇作业，自动走迷宫。 |
+| [C-LanguageProjectCombat](https://github.com/newhappy3/C-LanguageProjectCombat/tree/master/%E4%BF%84%E7%BD%97%E6%96%AF%E6%96%B9%E5%9D%97) | 俄罗斯方块：用 C 语言实现 Win32 程序，完成俄罗斯方块游戏程序。 |
+| [C-LanguageProjectCombat](https://github.com/newhappy3/C-LanguageProjectCombat/tree/master/%E5%AD%A6%E7%94%9F%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F) | 学生管理系统。 |
+| [AirPlaneGame](https://github.com/Ayloss/AirPlaneGame) | cocos2dx 制作的微信《飞机大战》游戏。 |
+| [Tank3000](https://github.com/WuYufeng233/Tank3000) | 坦克大战。 |
+| [Big_fight](https://github.com/hw-sudo/Big_fight) | 球球大作战。 |
+| [Gobang](https://github.com/happysnaker/Gobang) | 智能人机五子棋对战：一款 AI 五子棋项目，C++ 新手项目实践 — 智能人机五子棋对战。 |
+| [sanguosha](https://github.com/snkkka163/sanguosha) | 此项目为三国杀游戏，模拟 QQ 注册，QQ 登录，QQ 加好友，QQ 聊天，基于 C# 语言，SQL Server 数据库开发，游戏功能目前已经实现玩家 VS 人机，已支持英雄：刘备、曹操、孙权，支持穿着装备、武器、战马，杀死对方获得积分。 |
+| [SimpleNES](https://github.com/amhndu/SimpleNES) | 任天堂红白机模拟器：这是一个用 C++ 编写的 NES 仿真器。 |
+| [Snake-cpp](https://github.com/bystc/Snake-cpp) | 用 C++ 写的一个简易贪吃蛇。 |
+| [MagicTower](https://github.com/seavers/MagicTower) | 魔塔：当年很火的一个 Flash 游戏，作者当时正在学习 C++ (VC++6.0)，故移植了过去，纯学习练手。 |
+| [DiningSystem](https://github.com/lvyahui8/DiningSystem) | 点餐系统。 |
+| [Plants-vs.-Zombies-Online-Battle](https://github.com/Zhuagenborn/Plants-vs.-Zombies-Online-Battle) | 植物大战僵尸多人对战，开发通过反向工程，内嵌钩子和动态链接库注入。两个在线玩家分别作为植物和僵尸进行防御和攻击。 |
+| [PictureMatching](https://github.com/TheThreeDog/PictureMatching) | Qt C++ 实现的王者荣耀风格的连连看程序（基于 TD-framework 实现）。 |
+| [ST_PUZZLE_2.0](https://github.com/I-m-Eden/ST_PUZZLE_2.0) | ST-PUZZLE。 |
+| [mines_sweeper](https://github.com/xiaoxi666/mines_sweeper) | 开源项目：扫雷（Qt 开发）。 |
+| [2048.cpp](https://github.com/plibither8/2048.cpp) | 功能齐全的终端版游戏《2048》用 C++ 编写。 |
+| [Ancient-Spider](https://github.com/jie65535/Ancient-Spider) | 蜘蛛纸牌游戏。 |
+| [Qt_FreeCell](https://github.com/SeanLiaoy/Qt_FreeCell) | Qt_FreeCell (纸牌游戏空当接龙 C++/Qt 实现)。 |
+| [CppFishingCode](https://github.com/yinhui1129754/CppFishingCode) | 纯 C++ 捕鱼游戏。 |
+| [Rhythm](https://github.com/ZeroYang/Rhythm) | 用 Cocos2d-x 开发跨平台游戏，高仿《节奏大师》游戏。 |
+| [mirror](https://github.com/simon0xia/mirror) | 传奇挂机类游戏。 |
+| [3d-racing-games-demo](https://github.com/ceynri/3d-racing-games-demo) | 使用 C++ 和 OpenGL 实现简单的 3D 赛车游戏。 |
+| [Contra](https://github.com/philhuan/Contra) | 使用图形库 easyx 写的 C++ 魂斗罗游戏。 |
+| [Maze](https://github.com/UNLOSTER/Maze) | 基于 C++ EasyX 编写的益智小游戏 - 迷宫。 |
+| [shushabgyuanyue/c](https://github.com/shushabgyuanyue/c) | N 个小游戏项目（适合初学者）。 |
+| [game_2048](https://github.com/VectorWWW/game_2048) | 在实验楼学习的 C 语言项目，2048 小游戏。 |
+| [JumpByJump](https://github.com/hubojing/JumpByJump) | C++ 版微信跳一跳小游戏辅助程序。 |
+| [ChineseChesses](https://github.com/FlyAndNotDown/ChineseChesses) | 双人象棋小游戏 - C++ - Windows GDI。 |
+| [Word-Games](https://github.com/Wenretium/Word-Games) | C++ 实现带 GUI 背单词小游戏。 |
+| [NumberGuess](https://github.com/LargeRaindrop/NumberGuess) | 基于 C++ 的猜数字小游戏。 |
+| [Puzzle](https://github.com/dengguangshi/Puzzle) | C/C++ 拼图小游戏。 |
+| [loliRun](https://github.com/zhangyugege/loliRun) | 萝莉酷跑小游戏。 |
+| [Study-of-C-](https://github.com/Burgbug/Study-of-C-) | 学堂在线 C++ of Linux 的小项目，使用随机数库编写的简单控制台游戏（猜数游戏）。 |
+| [jijinlong/colors](https://github.com/jijinlong/colors) | 一款实用 Lua+C++ 的消除类小游戏。 |
+| [Cgames](https://github.com/yh1094632455/Cgames) | C 语言经典 200 多个有趣的程序和游戏。 |
+| [Shoot-The-Chicken-3D](https://github.com/CHINA-JIGE/Shoot-The-Chicken-3D) | 基于 C++ 控制台的 3D 第一人称射击 (FPS) 游戏，项目包含软件渲染器、游戏引擎层、游戏逻辑层。 |
+| [bounce-ball](https://github.com/muxiaozi/bounce-ball) | 弹弹乐 - C 语言控制台游戏。 |
+| [shining-yang/DDZ](https://github.com/shining-yang/DDZ) | DDZ（斗地主）- Win32 C/C++ 编写的斗地主游戏程序。 |
+| [sudoku](https://github.com/mayerui/sudoku) | C++ 实现的跨平台数独游戏，命令行操作易上手，可以在开发间隙用来放松身心。数百行代码，初学者也可以轻松掌握。 |
+| [2019-2020-tjse-sour-knight](https://github.com/lightmountainwolf/2019-2020-tjse-sour-knight) | 2019-2020 同济软工大项目 C++ 游戏。 |
+| [LianZhu](https://github.com/seashell752/LianZhu) | 海底连珠，基于 Cocos2d-x-3.3 游戏引擎，C++ 版本的一个五子连珠消除类游戏，可以学习基本的 Cocos2d-x 游戏开发，用到 A*(A star) 寻路算法，消除算法。 |
+| [historyme/fmj_cpp](https://github.com/historyme/fmj_cpp) | 步步高伏魔记游戏 C++ 版本。 |
+| [SimpleNES](https://github.com/amhndu/SimpleNES) | 一个用 C++ 编写的 NES 模拟器，只是为了好玩。包含游戏：超级马里奥兄弟、Contra、冒险岛、忍者外传、洛克人和洛克人 2、马里奥兄弟、大金刚和小金刚、战城、报童、塞尔达传说、吃豆子、网球、励志单车。 |
+| [CPP-DrawGuess](https://github.com/hanmin0822/CPP-DrawGuess) | 一个 C++ 编写的，使用 C/S 架构的、实时、可选房间、多人同房的你画我猜游戏。 |
+| [CoinFlap](https://github.com/HAO1171965789/CoinFlap) | C++ 金币翻转游戏。 |
+| [richman](https://github.com/czl0325/richman) | C++ 写的大富翁游戏，适合入门初学者。 |
+| [CubeMiniGame](https://github.com/tangziwen/CubeMiniGame) | Cube Engine 是一个用 C++ 编写的小型图形引擎，由 OpenGL 和 Vulkan 提供支持，开发它是为了提高我的 CG 知识和通用编程技能（通用算法、代码风格、设计模式）。 |
+| [ArenaofValor](https://github.com/Xuedixuedi/ArenaofValor) | 同济大学软件学院 18 级 C++ 大项目——王者荣耀。 |
+
 
 ---
 
