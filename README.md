@@ -59,6 +59,7 @@
 - [图像处理](#图像处理)
 - [事件处理机制](#事件处理机制)
 - [人工智能](#人工智能)
+- [开发工具](#开发工具)
 
 ---
 
@@ -802,6 +803,93 @@
 | [CNTK](https://github.com/Microsoft/CNTK) | Microsoft Cognitive Toolkit (CNTK)，一个开源深度学习工具包。 |
 | [Veles](https://github.com/Samsung/veles) | 用于快速深度学习应用开发的分布式平台。 |
 | [Kaldi](https://github.com/kaldi-asr/kaldi) | 语音识别工具包。 |
+
+
+---
+
+## 开发工具
+
+### 编译器 
+
+| 项目 | 介绍 |
+|---|---|
+| [Clang](http://clang.llvm.org/) | 由苹果公司开发的编译器。 |
+| [GCC](https://gcc.gnu.org/) | GNU 编译器集合。 |
+| [Intel C++ Compiler](https://software.intel.com/en-us/c-compilers) | 由英特尔公司开发。 |
+| [LLVM](http://llvm.org/) | 模块化和可重用编译器和工具链技术的集合。 |
+| [Microsoft Visual C++](http://msdn.microsoft.com/en-us/vstudio/hh386302.aspx) | MSVC，由微软公司开发。 |
+| [Open WatCom](http://www.openwatcom.org/index.php/Main_Page) | Watcom，C、C++ 和 Fortran 交叉编译器和工具。 |
+| [TCC](http://bellard.org/tcc/) | 轻量级的 C 语言编译器。 |
+
+---
+### 在线编译器
+
+| 项目 | 介绍 |
+|---|---|
+| [codepad](http://codepad.org/) | 在线编译器/解释器，一个简单的协作工具。 |
+| [CodeTwist](http://codetwist.com/) | 一个简单的在线编译器/解释器，你可以粘贴 C、C++ 或者 Java 代码，在线执行并查看结果。 |
+| [coliru](http://coliru.stacked-crooked.com/) | 在线编译器/shell，支持各种 C++ 编译器。 |
+| [Compiler Explorer](http://gcc.godbolt.org/) | 交互式编译器，可以进行汇编输出。 |
+| [CompileOnline](http://www.compileonline.com/compile_cpp11_online.php) | 在 Linux 上在线编译和执行 C++ 程序。 |
+| [Ideone](http://ideone.com/) | 一个在线编译器和调试工具，允许你在线编译源代码并执行，支持 60 多种编程语言。 |
+
+---
+### 调试器
+
+| 项目 | 介绍 |
+|---|---|
+| [Comparison of debuggers](http://en.wikipedia.org/wiki/Comparison_of_debuggers) | 来自维基百科的调试器列表。 |
+| [GDB](https://www.gnu.org/software/gdb) | GNU 调试器。 |
+| [Valgrind](http://valgrind.org/) | 内存调试、内存泄露检测、性能分析工具。 |
+
+---
+### 集成开发环境（IDE）
+
+| 项目 | 介绍 |
+|---|---|
+| [AppCode](http://www.jetbrains.com/objc/) | 构建于 JetBrains’ IntelliJ IDEA 平台上的用于 Objective-C、C、C++ 和 Java 开发的集成开发环境。 |
+| [CLion](http://www.jetbrains.com/clion/) | 来自 JetBrains 的跨平台的 C/C++ 集成开发环境。 |
+| [Code::Blocks](http://www.codeblocks.org/) | 免费的 C、C++ 和 Fortran 集成开发环境。 |
+| [CodeLite](http://codelite.org/) | 另一个跨平台的免费 C/C++ 集成开发环境。 |
+| [Dev-C++](http://sourceforge.net/projects/orwelldevcpp/) | 可移植的 C/C++/C++11 集成开发环境。 |
+| [Eclipse CDT](http://www.eclipse.org/cdt/) | 基于 Eclipse 平台的功能齐全的 C 和 C++ 集成开发环境。 |
+| [Geany](http://www.geany.org/) | 轻量级、快速、跨平台的集成开发环境。 |
+| [IBM VisualAge](http://www-03.ibm.com/software/products/en/visgen) | 来自 IBM 的家庭计算机集成开发环境。 |
+| [Irony-mode](https://github.com/Sarcasm/irony-mode) | 由 libclang 驱动的用于 Emacs 的 C/C++ 微模式。 |
+| [KDevelop](https://www.kdevelop.org/) | 免费开源集成开发环境。 |
+| [Microsoft Visual Studio](http://www.visualstudio.com/) | 来自微软的集成开发环境。 |
+| [NetBeans](https://netbeans.org/) | 主要用于 Java 开发的集成开发环境，也支持其他语言，尤其是 PHP、C/C++ 和 HTML5。 |
+| [Qt Creator](http://qt-project.org/) | 跨平台的 C++、Javascript 和 QML 集成开发环境，也是 Qt SDK 的一部分。 |
+| [rtags](https://github.com/Andersbakken/rtags) | C/C++ 的客户端服务器索引，用于与基于 clang 的 Emacs 的集成。 |
+| [Xcode](https://developer.apple.com/xcode/) | 由苹果公司开发。 |
+| [YouCompleteMe](https://valloric.github.io/YouCompleteMe/) | 一个用于 Vim 的根据你敲的代码快速模糊搜索并进行代码补全的引擎。 |
+
+---
+### 构建系统 
+
+| 项目 | 介绍 |
+|---|---|
+| [Bear](https://github.com/rizsotto/Bear) | 用于为 clang 工具生成编译数据库的工具。 |
+| [Biicode](https://www.biicode.com/) | 基于文件的简单依赖管理器。 |
+| [CMake](http://www.cmake.org/) | 跨平台的免费开源软件，用于管理软件使用独立编译的方法进行构建的过程。 |
+| [CPM](https://github.com/iauns/cpm) | 基于 CMake 和 Git 的 C++ 包管理器。 |
+| [FASTBuild](http://www.fastbuild.org/docs/home.html) | 高性能、开源的构建系统，支持高度可扩展性的编译、缓冲和网络分布。 |
+| [Ninja](http://martine.github.io/ninja/) | 专注于速度的小型构建系统。 |
+| [Scons](http://www.scons.org/) | 使用 Python 脚本配置的软件构建工具。 |
+| [tundra](https://github.com/deplinenoise/tundra) | 高性能的代码构建系统，即使对于非常大型的软件项目，也能提供最好的增量构建次数。 |
+| [tup](http://gittup.org/tup/) | 基于文件的构建系统，用于后台监控变化的文件。 |
+
+---
+### 静态代码分析 
+
+| 项目 | 介绍 |
+|---|---|
+| [Cppcheck](http://cppcheck.sourceforge.net/) | 静态 C/C++ 代码分析工具。 |
+| [include-what-you-use](https://code.google.com/p/include-what-you-use/) | 使用 clang 进行代码分析的工具，可以 `#include` 在 C 和 C++ 文件中。 |
+| [OCLint](http://oclint.org/) | 用于 C、C++ 和 Objective-C 的静态源代码分析工具，用于提高质量，减少瑕疵。 |
+| [Clang Static Analyzer](http://clang-analyzer.llvm.org/index.html) | 查找 C、C++ 和 Objective-C 程序 bug 的源代码分析工具。 |
+| [List of tools for static code analysis](http://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis#C.2FC.2B.2B) | 来自维基百科的静态代码分析工具列表。 |
+
 
 ---
 ### 免责声明
