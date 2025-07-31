@@ -1,4 +1,4 @@
-<h1 align="center">🌟 Awesome C/C++ Projects [精选开源项目合集]</h1>
+<h1 align="center">🌟 Awesome C/C++ Projects </h1>
 
 <p align="center">
   💼 收录和整理 <b>500+</b> 个高质量、开源的 C/C++ 项目，分类清晰、简介简练
