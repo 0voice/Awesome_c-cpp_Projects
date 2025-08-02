@@ -897,6 +897,28 @@
 
 
 ---
+
+### 网站推荐
+
+| 项目 | 介绍 |
+|---|---|
+| [C++ Standard Library](http://en.wikipedia.org/wiki/C%2B%2B_Standard_Library) | 一系列类和函数的集合，使用核心语言编写，也是 C++ ISO 自身标准的一部分。 |
+| [Standard Template Library](https://en.wikipedia.org/wiki/Standard_Template_Library) | 标准模板库。 |
+| [C POSIX library](https://en.wikipedia.org/wiki/C_POSIX_library) | POSIX 系统的 C 标准库规范。 |
+| [ISO C++ Standards Committee](https://github.com/cplusplus) | C++ 标准委员会。 |
+| [C++ FAQ](https://isocpp.org/faq) | C++ 常见问题。 |
+| [Free Country](https://www.thefreecountry.com/sourcecode/cpp.shtml?spm=5176.10731542.0.0.4fc35bde2jHhz4) | Free Country 提供了免费的 C++ 源代码和 C++ 库，这些源代码和库涵盖了压缩、存档、游戏编程、标准模板库和 GUI 编程等 C++ 编程领域。 |
+| [C and C++ Users Group](http://www.hal9k.com/cug/?spm=5176.10731542.0.0.4fc35bde2jHhz4) | C 和 C++ 的用户团体提供了免费的涵盖各种编程领域 C++ 项目的源代码，包括 AI、动画、编译器、数据库、调试、加密、游戏、图形、GUI、语言工具、系统编程等。 |
+| [LearnCpp](https://www.learncpp.com/) | 免费学习 C++ 编程。 |
+| [CodeCogs](https://www.codecogs.com/) | CodeCogs 是一项协作的开放源码库，提供 C/C++ 数值方面的组件。 |
+| [codeproject](https://www.codeproject.com/) | CodeProject 提供的 C/C++ 资源代码项目。 |
+| [thoughtco](https://www.thoughtco.com/c-and-c-plus-programming-4133470) | 游戏相关的 C++ 源代码。 |
+| [Free C/C++ Libraries](https://www.programmerworld.net/resources/c_library.htm) | 免费 C++ 源代码和其他有用的工具。 |
+| [The C++ Standard Library](http://www.josuttis.com/libbook/examples.html) | 这是一个收集了许多 C/C++ 网站链接列表的网页。 |
+| [cplusplus](http://www.cplusplus.com/) | C++ 学习网站。 |
+| [C++ Source Codes](https://people.sc.fsu.edu/~jburkardt/cpp_src/cpp_src.html) | 这是一个全面的关于 C++ 的 345 个源代码清单。 |
+
+---
 ### 免责声明
 
 本项目内容均来源于互联网公开资料，仅供学习交流使用，版权归原作者所有。
