@@ -42,7 +42,7 @@
 - [文档解析工具](#文档解析工具)
 - [数据结构与算法](#数据结构与算法)
 - [数据查询](#数据查询)
-- [嵌入式/RTOS/IOT](#嵌入式--rtos--iot)
+- [嵌入式](#嵌入式)
 - [数字信号处理](#数字信号处理)
 - [数学](#数学)
 - [游戏引擎](#游戏引擎)
@@ -421,7 +421,7 @@
 
 ---
 
-### 嵌入式 / RTOS / IoT 
+### 嵌入式
 
 | 项目                                                            | 简介                                 |
 | -------------------------------------------------------------- | ---------------------------------- |
@@ -429,6 +429,12 @@
 | [**Zephyr**](https://github.com/zephyrproject-rtos/zephyr)                 | 主流开源嵌入式系统与工具链 |
 | [**FreeRTOS**](https://github.com/FreeRTOS/FreeRTOS)    | 主流开源嵌入式系统与工具链             |
 | [**acados**](https://github.com/acados/acados)                    | 面向嵌入式场景的开源最优控制库，底层使用 BLASFEO 高性能线性代数，加速控制算法部署          |
+| [**stm32f103c8t6-examples**](https://github.com/afiskon/stm32f103c8t6-examples)   | 用 C 编写的 STM32F103 系列裸机程序 |
+| [**libopencm3**](https://github.com/libopencm3/libopencm3)   | STM32 等 Cortex-M 芯片的通用外设寄存器访问库 |
+| [**FreeRTOS-Kernel**](https://github.com/FreeRTOS/FreeRTOS-Kernel)   | 轻量级实时操作系统内核 |
+| [**pico-examples**](https://github.com/raspberrypi/pico-examples)   | Raspberry Pi Pico (RP2040) 官方示例 |
+| [**libusb**](https://github.com/libusb/libusb)   | 用户态 USB 通信库 |
+| [**tinyusb**](https://github.com/hathach/tinyusb)   | 嵌入式 USB 栈 |
 
 ---
 
