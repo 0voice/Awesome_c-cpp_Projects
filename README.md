@@ -39,6 +39,7 @@
 - [debug](#debug)
 - [web开发相关](#web-开发相关)
 - [数据格式](#数据格式)
+- [脚本](#脚本)
 - [机器学习与深度学习](#机器学习与深度学习)
 - [数据格式化与可视化](#数据格式化与可视化)
 - [文档生成工具](#文档生成工具)
@@ -415,6 +416,36 @@
 | [**Fast C++ CSV Parser**](https://github.com/ben-strasser/fast-cpp-csv-parser)                    | 用于读取 CSV 文件的快速库        |
 | [**nlohmann/json**](https://github.com/nlohmann/json)              | 现代 C++的 JSON               |
 | [**picojson**](https://github.com/kazuho/picojson)         | 一个仅使用头文件的 C++ JSON 解析器序列化器             |
+
+---
+
+### 数据格式
+
+| 项目 | 介绍 |
+|---|---|
+| [AngelScript](https://www.angelcode.com/angelscript/) | AngelScript 是一种面向游戏的解释/编译型脚本语言。|
+| [Boost.Python](https://github.com/boostorg/python) | 一个 C++ 库，可实现 C++ 和 Python 编程语言之间的无缝互操作。|
+| [cppimport](https://github.com/tbenthompson/cppimport) | 直接从 Python 导入 C++ 文件！|
+| [CppSharp](https://github.com/mono/CppSharp) | 将 C/C++ API 粘合到高级语言的工具和库。|
+| [ChaiScript](https://github.com/ChaiScript/ChaiScript/) | 一种易于使用的 C++ 嵌入式脚本语言。|
+| [ctypes.sh](https://github.com/taviso/ctypes.sh) | 用于 Bash 的外部函数接口。|
+| [Cython](https://github.com/cython/cython) | Cython 是一个优化静态编译器，适用于 Python 编程语言和扩展的 Cython 编程语言（基于 Pyrex）。它使为 Python 编写 C 扩展变得像 Python 本身一样容易。|
+| [djinni](https://djinni.xlcpp.dev) | 一个用于生成跨语言类型声明和接口绑定的工具。|
+| [Duktape](https://github.com/svaarala/duktape) | 一款占用空间小的可嵌入 JavaScript 引擎。|
+| [JavaCpp](https://github.com/bytedeco/javacpp) | 连接 Java 和原生 C++ 的缺失桥梁。|
+| [MiniScript](https://miniscript.org/) | 一种现代、优雅、易于学习且易于嵌入到您自己的 C# 或 C++ 项目中的脚本语言。|
+| [nanobind](https://github.com/wjakob/nanobind) | 微小且高效的 C++/Python 绑定。|
+| [nbind](https://github.com/charto/nbind) | 神奇的头文件，让您的 C++ 库可以从 JavaScript 访问。|
+| [PHP-CPP](https://github.com/CopernicaMarketingSoftware/PHP-CPP) | 一个用 C++ 构建 PHP 扩展的库。|
+| [pocketpy](https://github.com/blueloveTH/pocketpy) | 适用于游戏脚本的 C++17 仅头文件 Python 解释器。|
+| [pybind11](https://github.com/pybind/pybind11) | C++11 和 Python 之间的无缝互操作。|
+| [QuickJS](https://bellard.org/quickjs/) | 一个小巧且可嵌入的 JavaScript 引擎。|
+| [SIP](https://riverbankcomputing.com/software/sip/intro) | 用于 Python v2 和 v3 的 C 或 C++ 绑定生成器。|
+| [sol2](https://github.com/ThePhD/sol2) | 一个带有高级功能和顶级性能的 C++ <-> Lua API 包装器。|
+| [SWIG](https://github.com/swig/swig) | 一个包装/接口生成器，可让您的 C++ 代码链接到 JavaScript、Perl、PHP、Python、Tcl 和 Ruby。|
+| [txiki.js](https://github.com/saghul/txiki.js) | 一个微小的 JavaScript 运行时。|
+| [V7](https://github.com/cesanta/v7) | 一个嵌入式 JavaScript 引擎。|
+| [V8](https://v8.dev) | 谷歌开发的一款快速 JavaScript 引擎，可以嵌入到任何 C++ 应用程序中。|
 
 ---
 
