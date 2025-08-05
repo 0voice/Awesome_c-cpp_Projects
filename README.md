@@ -34,7 +34,8 @@
 - [参数解析器](#参数解析器)
 - [基准测试](#基准测试)
 - [并发](#并发)
-- [网络/web开发相关](#网络--web-开发相关)
+- [debug](#debug)
+- [web开发相关](#web-开发相关)
 - [数据格式](#数据格式)
 - [机器学习与深度学习](#机器学习与深度学习)
 - [数据格式化与可视化](#数据格式化与可视化)
@@ -301,6 +302,40 @@
 | [**transwarp**](https://github.com/bloomen/transwarp)              | 现代 C++ taskpool       |
 | [**transwarp**](https://github.com/bloomen/transwarp)              | 一个用于任务并发的头文件 C++库         |
 | [**thread-pool**](https://github.com/DeveloperPaul123/thread-pool)              | 现代 C++20 线程池     |
+
+
+---
+
+### debug
+
+| 项目 | 介绍 |
+|---|---|
+| [backward-cpp](https://github.com/bombela/backward-cpp) | 一个美观的 C++ 堆栈跟踪美化打印库。 |
+| [Bencher](https://bencher.dev/) | 一套持续基准测试工具，旨在捕捉 CI 中的性能回归。 |
+| [benchmark](https://github.com/google/benchmark) | 谷歌提供的小型微基准测试支持库。 |
+| [Boost.Test](https://github.com/boostorg/test) | Boost 测试库。 |
+| [check](https://github.com/libcheck/check) | Check 是一个用于 C 语言的单元测试框架。 |
+| [doctest](https://github.com/onqtam/doctest) | 功能丰富但最轻量的 C++ 单头文件测试框架。 |
+| [Catch2](https://github.com/catchorg/Catch2) | 一个现代的、C++ 原生的测试框架，用于单元测试、TDD 和 BDD。 |
+| [Celero](https://github.com/DigitalInBlue/Celero) | C++ 基准测试框架。 |
+| [cpp-dump](https://github.com/philip82148/cpp-dump) | 一个用于调试的 C++ 库，可以打印任何变量，甚至是用户自定义类型。 |
+| [CppUTest](https://github.com/cpputest/cpputest) | 适用于 C/C++ 的单元测试和 Mocking 框架。 |
+| [CUTE](http://cute-test.com) | 更简单的 C++ 单元测试。 |
+| [dbg-macro](https://github.com/sharkdp/dbg-macro) | 一个用于 C++ 的 `dbg(...)` 宏。 |
+| [DebugViewPP](https://github.com/CobaltFusion/DebugViewPP) | 调试日志查看器。 |
+| [Deleaker](http://www.deleaker.com) | 一个用于资源泄漏检测的工具，包括内存、GDI 和句柄泄漏。 |
+| [FakeIt](https://github.com/eranpeer/FakeIt) | 适用于 C++ 的简单 Mocking 框架。 |
+| [fff](https://github.com/meekrosoft/fff) | 一个用于创建虚假 C 函数的微框架。 |
+| [Google Mock](https://github.com/google/googletest/blob/master/googlemock/README.md) | 一个用于编写和使用 C++ 模拟类的库。 |
+| [Google Test](https://github.com/google/googletest) | 谷歌 C++ 测试框架。 |
+| [Hippomocks](https://github.com/dascandy/hippomocks) | 单头文件 Mocking 框架。 |
+| [microprofile](https://github.com/jonasmr/microprofile) | 带有网页视图的多平台性能分析器。 |
+| [MinUnit](https://github.com/siu/minunit) | 一个自包含在单个头文件中的 C 语言最小单元测试框架。 |
+| [nanobench](https://github.com/martinus/nanobench) | 适用于 C++11/14/17/20 的简单、快速、精确的单头文件微基准测试功能。 |
+| [Nanotimer](https://github.com/mattreecebentley/plf_nanotimer) | 一个用于基准测试的简单、低开销、跨平台的计时器类。 |
+| [Nonius](https://github.com/libnonius/nonius) | 一个 C++ 微基准测试框架。 |
+
+
 
 ---
 
