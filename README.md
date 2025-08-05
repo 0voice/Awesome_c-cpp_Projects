@@ -24,6 +24,8 @@
 - [c/c++ 项目源码学习](#cc-源码学习)
 - [标准支持库](#标准支持库)
 - [音频](#音频)
+- [视频](#视频)
+- [多媒体](#多媒体)
 - [通信](#通信)
 - [压缩](#压缩)
 - [密码与安全](#密码与安全)
@@ -106,7 +108,7 @@
 | [Amplitude Audio SDK](https://github.com/SparkyStudios/AmplitudeAudioSDK) | 一款跨平台音频引擎，专为游戏需求设计     |
 | [Aubio](https://github.com/aubio/aubio)                                   | 用于音频和音乐分析的库  |
 | [AudioFile](https://github.com/adamstark/AudioFile)                       | 一个用于读写音频文件的简单 C++ 库    |
-| [audioFlux](https://github.com/libAudioFlux/audioFlux)                    | 一个用于音频与音乐分析、特征提取的 C 语言库    |
+| [audioFlux](https://github.com/libAudioFlux/audioFlux)                    | 一个用于音频与音乐分析、特征提取的 C 语言库 |
 | [dr\_libs](https://github.com/mackron/dr_libs)                            | 单文件音频解码库，适用于 C 和 C++   |
 | [FMOD](http://www.fmod.org/)                                              | 易用的跨平台音频引擎及游戏音频内容创建工具   |
 | [KFR](https://www.kfrlib.com/)                                            | 快速、现代的 C++ DSP 框架，支持 FFT、FIR/IIR 滤波器、采样率转换等   |
@@ -128,6 +130,39 @@
 | [minimp3](https://github.com/lieff/minimp3)                               | 公有领域、仅头文件实现的 MP3 解码器，采用独立开发实现。                                  |
 | [Verovio](https://github.com/rism-ch/verovio)                             | 快速轻量的音乐符号排版引擎  |
 | [Wav2Letter++](https://github.com/facebookresearch/wav2letter/)           | 公有领域的快速开源语音处理工具包，完全用 C++ 编写，并使用 ArrayFire 和 Flashlight 库实现高效计算。 |
+
+---
+
+### 视频
+
+| 项目 | 介绍 |
+|---|---|
+| [libvpx](http://www.webmproject.org/code/) | VP8/VP9 编解码器 SDK。 |
+| [FFmpeg](https://www.ffmpeg.org/) | 一个完整的跨平台解决方案，用于录制、转换和流式传输音频和视频。 |
+| [avcpp](https://github.com/h4tr3d/avcpp) | FFmpeg 的现代 C++ 封装。 |
+| [libde265](https://github.com/strukturag/libde265) | 开源 h.265 视频编解码器实现。 |
+| [x265](https://bitbucket.org/multicoreware/x265_git/src) | 开源 h.265 视频编解码器实现。 |
+| [OpenH264](https://github.com/cisco/openh264) | 开源 H.264 编解码器。 |
+| [Theora](http://www.theora.org/) | 一种免费、开放的视频压缩格式。 |
+| [Vireo](https://github.com/twitter/vireo/) | Twitter 开发的一个轻量级、多功能的视频处理库。 |
+
+---
+
+### 多媒体
+
+| 项目 | 介绍 |
+|---|---|
+| [GStreamer](http://gstreamer.freedesktop.org/) | 一个用于构建媒体处理组件图的库。 |
+| [libass](https://github.com/libass/libass) | 适用于 ASS/SSA 字幕格式的可移植字幕渲染器。 |
+| [libav](https://github.com/libav/libav) | 一组用于处理音频、视频、字幕和相关元数据等多媒体内容的库和工具。 |
+| [LIVE555 Streaming Media](http://www.live555.com/liveMedia/) | 使用开放标准协议 (RTP/RTCP, RTSP, SIP) 的多媒体流媒体库。 |
+| [libVLC](https://wiki.videolan.org/LibVLC) | libVLC (VLC SDK) 媒体框架。 |
+| [MediaInfoLib](https://github.com/MediaArea/MediaInfoLib) | 方便地统一显示视频和音频文件最相关的技术和标签数据。 |
+| [QtAv](https://github.com/wang-bin/QtAV) | 一个基于 Qt 和 FFmpeg 的多媒体播放框架，可轻松编写播放器。 |
+| [SDL](https://github.com/libsdl-org/SDL) | 简单直接媒体层。 |
+| [SFML](https://github.com/SFML/SFML) | 简单快速多媒体库。 |
+| [TagLib](https://github.com/taglib/taglib) | 一个用于读取和编辑多种流行音频格式元数据的库。 |
+
 
 ---
 
