@@ -304,16 +304,33 @@
 
 ---
 
-### 网络 / Web 开发相关
+### Web 开发相关
 
 | 项目                                                            | 简介                                 |
 | -------------------------------------------------------------- | ---------------------------------- |
-| [**TinyWebServer**](https://github.com/qinguoyi/TinyWebServer) | 高性能 Web 服务器，C++ 实现，支持 epoll + 多线程  |
-| [**wfrest**](https://github.com/wfrest/wfrest)                 | 基于 Sogou Workflow 的轻量级 C++ REST 框架 |
-| [**picohttpparser**](https://github.com/h2o/picohttpparser)    | 极快的 HTTP 解析器，常用于嵌入式服务端             |
-| [**libuv**](https://github.com/libuv/libuv)                    | 跨平台异步 I/O 库，Node.js 的核心依赖          |
-| [**libmill**](https://github.com/sustrik/libmill)              | C 协程风格的并发编程库（Go 风格）                |
-| [**picotcp**](https://github.com/tass-belgium/picotcp)         | 嵌入式设备用的轻量 TCP/IP 协议栈               |
+| [TinyWebServer](https://github.com/qinguoyi/TinyWebServer) | 高性能 Web 服务器，C++ 实现，支持 epoll + 多线程  |
+| [wfrest](https://github.com/wfrest/wfrest)                 | 基于 Sogou Workflow 的轻量级 C++ REST 框架 |
+| [picohttpparser](https://github.com/h2o/picohttpparser)    | 极快的 HTTP 解析器，常用于嵌入式服务端             |
+| [libuv](https://github.com/libuv/libuv)                    | 跨平台异步 I/O 库，Node.js 的核心依赖          |
+| [libmill](https://github.com/sustrik/libmill)              | C 协程风格的并发编程库（Go 风格）                |
+| [picotcp](https://github.com/tass-belgium/picotcp)         | 嵌入式设备用的轻量 TCP/IP 协议栈               |
+| [Civetweb](https://github.com/civetweb/civetweb) | 提供易于使用、功能强大的 C/C++ 嵌入式 Web 服务器，可选支持 CGI、SSL 和 Lua。 |
+| [C++ REST SDK](https://github.com/Microsoft/cpprestsdk) | 微软的项目，用于使用现代异步 C++ API 设计进行本地代码中的云端客户端-服务器通信。 |
+| [CppCMS](http://cppcms.com/) | 一个免费的高性能 Web 开发框架（而非 CMS）。 |
+| [Crow](https://github.com/CrowCpp/Crow) | Crow 是一个用于运行 Web 服务的 C++ 微框架，其路由方式类似于 Python 的 Flask。 |
+| [Cutelyst](https://github.com/cutelyst/cutelyst) | 一个基于 Qt 构建的 C++ Web 框架，采用 Catalyst (Perl) 框架的简单方法。 |
+| [Drogon](https://github.com/an-tao/drogon) | 一个基于 C++17/20 的高性能 HTTP 应用框架。 |
+| [C++ wfrest](https://github.com/wfrest/wfrest) | C++ Web 框架 REST API。 |
+| [facil.io](https://github.com/boazsegev/facil.io) | 一个事件驱动的高性能 C Web 框架，支持 HTTP、WebSockets、SSE 等。 |
+| [Kore](https://kore.io/) | 用 C 语言开发的超快速灵活的 Web 服务器/Web 应用程序框架。 |
+| [libOnion](http://www.coralbits.com/libonion/) | 一个轻量级库，可帮助你用 C 编程语言创建 Web 服务器。 |
+| [lwan](https://github.com/lpereira/lwan) | 实验性、可扩展、高性能的 HTTP 服务器。 |
+| [oat++](https://github.com/oatpp/oatpp) | 一个轻量级、零依赖的框架，用于创建高性能 Web 服务。 |
+| [Pistache](https://pistacheio.github.io/pistache/) | Pistache 是一个用纯 C++11 编写的 C++ REST 框架，没有外部依赖。 |
+| [QDjango](https://github.com/jlaine/qdjango/) | 一个用 C++ 编写并基于 Qt 库构建的 Web 框架。它尽可能地遵循 Django 的 API，因此得名。 |
+| [TreeFrog Framework](https://github.com/treefrogframework/treefrog-framework) | 一个基于 C++ 和 Qt 的高速全栈 Web 应用框架，支持 HTTP 和 WebSocket 协议（带有 O/R 映射）。 |
+| [userver](https://github.com/userver-framework/userver) | 一个异步 C++17 框架，包含丰富的抽象和数据库驱动程序，用于快速、舒适地创建高效的微服务、服务和实用程序。 |
+| [Wt](http://www.webtoolkit.eu/wt) | 一个用于开发 Web 应用程序的 C++ 库。 |
 
 ---
 
