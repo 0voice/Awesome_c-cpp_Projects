@@ -744,12 +744,12 @@
 | [PostgreSQL](https://github.com/postgres/postgres)   | 世界领先的企业级开源关系型数据库系统，支持 SQL 标准与扩展特性   |
 | [QuickDB](https://github.com/SaddestPerson/QuickDB)  | 简单的文件键值存储解决方案，使用 JSON 持久化，无需依赖   |
 | [RocksDB](https://github.com/facebook/rocksdb)       | Facebook 基于 LevelDB 构建的高性能持久化 KV 数据库，支持压缩与并发  |
-| [SimpleKV](https://github.com/IceKhan13/SimpleKV)    | 教学用 C++ 实现的键值数据库，逻辑清晰，适合入门学习数据库实现  |
+| [SimDB](https://github.com/LiveAsynchronousVisualizedArchitecture/simdb)    | 高性能、共享内存、无锁、跨平台、单文件、最小依赖、C++11 键值存储  |
 | [SkyTable](https://github.com/skytable/skytable)     | 通用 NoSQL 数据库，支持强一致性与内存索引优化，支持多种数据结构     |
 | [sled](https://github.com/spacejam/sled)                         | 嵌入式数据库，具有锁自由并发支持、崩溃恢复与写前日志机制，Rust 开发但提供 C FFI 接口。           |
 | [sqlite](https://github.com/sqlite/sqlite)                       | 世界上最流行的轻量级嵌入式 SQL 数据库，广泛应用于移动端和嵌入式系统。                       |
-| [tiny-database](https://github.com/MattiasBuelens/tiny-database) | C++ 实现的简单 SQL 引擎，内置解析器与执行器，适合数据库原理教学。                       |
-| [TinySQL](https://github.com/luoxinran27/TinySQL)                | 复旦大学数据库课程实验项目，C++ 实现类 SQL 数据库系统，代码结构清晰。                     |
+| [TinyORM](https://github.com/silverqx/TinyORM) | 现代 C++ ORM 库 |
+| [UnQLite](https://github.com/symisc/unqlite)                |  一个独立的、无服务器的、零配置的、事务性的 NoSQL 引擎  |
 | [Tkrzw](https://github.com/estraier/tkrzw)                       | Google Tokyo Cabinet 与 Kyoto Cabinet 的继承者，高性能键值存储，支持多种数据结构。 |
 | [Unqlite](https://github.com/symisc/unqlite)                     | 嵌入式 NoSQL 数据库引擎，支持键值存储与 JSON 文档模型，设计类 SQLite。               |
 | [Valkey](https://github.com/valkey-io/valkey)                    | Redis 社区分支，继承 Redis 7.x 代码并持续优化维护，性能稳定。                     |
