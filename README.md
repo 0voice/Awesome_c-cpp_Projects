@@ -67,6 +67,7 @@
 
 ---
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=0voice_Awesome_c-cpp_Projects) - Follow developers on GitHub and see what repos they star. Like a social feed for repo discovery.
 ### C/C++ 源码学习
 
 | 项目 | 简介 |
